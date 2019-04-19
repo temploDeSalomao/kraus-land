@@ -4,7 +4,17 @@
 	<div class="first-bg"></div>
 	<?php include 'inc/header.php'?>
 	<main>
-		
+		<section>
+			<article>
+				<h1>titulo</h1>
+			</article>
+			<aside>
+				<figure>
+					<img src="images/metalico.jpg" alt="">
+				</figure>
+				
+			</aside>
+		</section>
 	</main>
 
 	<?php include 'inc/footer.php'?>
