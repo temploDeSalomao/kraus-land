@@ -162,7 +162,8 @@ body {
 
 main {
     .container-header{
-        display: inline-flex;
+        display: flex;
+        flex-flow: column wrap;
     }
 
     .container-nosso-blog {
