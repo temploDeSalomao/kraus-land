@@ -5,7 +5,7 @@
 	<?php include 'inc/header.php'?>
 	<main>
 		<section class="container-fluid container-header">
-			<h1 class="uppercase f-white">Prensa-cabos metálicos</h1>
+			<h1 class="uppercase f-white col-sm-12 col-md-12 no-padding">Prensa-cabos metálicos</h1>
 			<article>
 				<h1>titulo</h1>
 			</article>
