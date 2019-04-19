@@ -167,41 +167,44 @@ main {
         display: flex;
         flex-flow: row wrap;
         margin-top: 35px;
+
+
+        
     }
 
-    .container-nosso-blog {
-        width: calc(100vw - 380px);
-        color: #fff;
+    // .container-nosso-blog {
+    //     width: calc(100vw - 380px);
+    //     color: #fff;
 
-        .blog-item {
-            .blog-title {
-                font-size: 30px;
-                margin-bottom: 1.8vh;
-            }
+    //     .blog-item {
+    //         .blog-title {
+    //             font-size: 30px;
+    //             margin-bottom: 1.8vh;
+    //         }
 
-            figure {
-                min-height: 300px;
-                margin-bottom: 2.5vh;
-            }
+    //         figure {
+    //             min-height: 300px;
+    //             margin-bottom: 2.5vh;
+    //         }
 
-            .about-post-blog {
-                margin-bottom: 2vh;
-                color: #929496;
-                font-size: 14px;
+    //         .about-post-blog {
+    //             margin-bottom: 2vh;
+    //             color: #929496;
+    //             font-size: 14px;
 
-                i {
-                    margin-right: 5px;
-                }
+    //             i {
+    //                 margin-right: 5px;
+    //             }
 
-                & > *:not(:first-child) {
-                    margin-left: 15px;
-                }
-            }
+    //             & > *:not(:first-child) {
+    //                 margin-left: 15px;
+    //             }
+    //         }
 
-            .content-post-blog {
-                font-size: 15px;
-                margin-bottom: 2.4vh;
-            }
-        }
-    }
+    //         .content-post-blog {
+    //             font-size: 15px;
+    //             margin-bottom: 2.4vh;
+    //         }
+    //     }
+    // }
 }
