@@ -163,7 +163,7 @@ body {
 main {
     .container-header{
         display: flex;
-        flex-direction:row;
+        flex-flow row wrap;
     }
 
     .container-nosso-blog {
