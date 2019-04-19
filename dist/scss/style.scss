@@ -54,8 +54,11 @@ body {
             background: $yellow;
             border-radius: 2px;
             border:0;
+            position: relative;
             i{
             font-size: 30px;
+            position:; absolute;
+            bottom: 0
              
             }
 
