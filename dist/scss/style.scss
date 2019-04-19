@@ -44,6 +44,12 @@ body {
         justify-content: space-evenly;
         position: absolute;
         right: 100px;
+
+        li{
+            display: flex;
+            justify-content: center;
+
+        }
     }
     // Home menu
     .main-nav {
