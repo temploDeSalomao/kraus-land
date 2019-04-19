@@ -46,7 +46,7 @@
 		
 
 		<link rel="stylesheet" href="../css/bootstrap-grid.min.css">
-		<link rel="stylesheet" href="../fonts/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/fonts.css">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/main.css">
