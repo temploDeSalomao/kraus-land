@@ -1,1 +1,1 @@
-$(window).ready(function(){$(".btn_esconder").click(function(){$(".main-bg").toggleClass("active"),$(this).html("Show")})});
+$(window).ready(function(){$(".btn_esconder").click(function(n){return $(".main-bg").toggleClass("active"),$(this).html("Show"),n})});
