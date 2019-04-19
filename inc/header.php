@@ -7,11 +7,10 @@
 		<nav class="main-nav">
 			<a class="logo-header" href="./"><img src="dist/images/logo/logo-kraus-muller.png" alt=""></a>
 			<ul><a href=""></a>
-				<li><a href="">Home</a></li>
-				<li><a href="">Produtos</a></li>
-				<li><a href="">Empresa</a></li>
-				<li><a href="">Seja nosso distribuidor</a></li>
-				<li><a href="">Localização</a></li>
+				<li class="uppercase"><a href="">Home</a></li>
+				<li class="uppercase"><a href="">Prensa-Cabos</a></li>
+				<li class="uppercase"><a href="">Prensa-Cabos</a></li>
+				
 			</ul>
 		</nav>
 		<ul class="sociais-container">
