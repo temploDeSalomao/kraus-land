@@ -15,7 +15,7 @@
 			</ul>
 		</nav>
 		<ul class="sociais-container">
-			<li > <a class="center al-end flex" href="#"><i class="fa fa-facebook f-black"></i></a></li>
+			<li class="center al-end flex"> <a class="center al-end flex" href="#"><i class="fa fa-facebook f-black"></i></a></li>
 		</ul>
 	</div>
 </header>
