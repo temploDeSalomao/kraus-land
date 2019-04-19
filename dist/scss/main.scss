@@ -1,4 +1,6 @@
-// Fonts
+
+
+// Fonts | Title
 .f-yellow {
     color: #e89a27;
 }
@@ -16,6 +18,11 @@
     &.opaque {
         color: hsla(0, 0%, 100%, 0.5);
     }
+}
+
+
+.main-title{
+    font-size: 2vw;
 }
 
 .uppercase {
