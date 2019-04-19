@@ -5,6 +5,7 @@
 	<?php include 'inc/header.php'?>
 	<main>
 		<section>
+			<h1 class="uppercase f-white">Prensa-cabos metálicos</h1>
 			<article>
 				<h1>titulo</h1>
 			</article>
