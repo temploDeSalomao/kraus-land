@@ -161,7 +161,9 @@ body {
 }
 
 main {
-    z-index: 2;
+    .container-header{
+        display: inline-flex;
+    }
 
     .container-nosso-blog {
         width: calc(100vw - 380px);
