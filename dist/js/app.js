@@ -1,5 +1,7 @@
 $(window).ready(function(){
 	$('.btn_esconder').click(function(){
-		$(',main-bg').removeClass('active');
+		if($('.main-bg').hasClass('active')){
+			$(this).removeClass('active');
+		}
 	})
 });
