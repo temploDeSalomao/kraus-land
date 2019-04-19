@@ -8,6 +8,19 @@ body {
 
 
 
+
+.btn-esconder{
+    background: #fff;
+    border:1px solid #333;
+    border-radius: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
 .main-bg.active{
     background: url('../images/landing.jpg') no-repeat;
     width: 100vw;
