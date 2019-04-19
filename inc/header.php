@@ -14,10 +14,8 @@
 				<li><a href="">Localização</a></li>
 			</ul>
 		</nav>
-		<ul class="change-language">
-			<li class="language-option"><img src="dist/images/flags/flag-brazil.png" alt=""></li>
-			<li class="language-option"><img src="dist/images/flags/flag-USA.png" alt=""></li>
-			<li class="language-option"><img src="dist/images/flags/flag-spain.png" alt=""></li>
+		<ul class="sociais-container">
+			<li> <a href="#"><i class="fa fa-facebook"></i></a></li>
 		</ul>
 	</div>
 </header>
