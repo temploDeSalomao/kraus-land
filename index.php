@@ -9,7 +9,7 @@
 			<article class="col-sm-12 col-md-6">
 				<h1>titulo</h1>
 			</article>
-			<aside>
+			<aside  class="col-sm-12 col-md-6">
 				<figure>
 					<img src="images/metalico.jpg" alt="">
 				</figure>
