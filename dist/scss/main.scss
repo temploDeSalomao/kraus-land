@@ -20,18 +20,32 @@
     }
 }
 
-
-.main-title{
-    font-size: 3.55555vw;
-
-}
-
 .uppercase {
     text-transform: uppercase;
 }
+
 .lighter{
     font-weight:300;
 }
+
+.medium{
+    font-weight:500;
+}
+
+
+.bolder{
+    font-weight:600;
+}
+
+.main-title{
+    font-size: 3.55555vw;
+}
+
+
+
+
+
+
 
 .bg-gray {
     background: #292929;
