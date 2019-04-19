@@ -4,7 +4,7 @@
 	<div class="first-bg"></div>
 	<?php include 'inc/header.php'?>
 	<main>
-		<section>
+		<section class="container">
 			<h1 class="uppercase f-white">Prensa-cabos metálicos</h1>
 			<article>
 				<h1>titulo</h1>
