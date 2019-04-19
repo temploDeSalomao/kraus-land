@@ -1,1 +1,1 @@
-$(window).ready(function(){});
+$(window).ready(function(){console.log("teste")});
