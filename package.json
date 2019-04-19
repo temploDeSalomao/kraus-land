@@ -1,0 +1,33 @@
+{
+  "name": "kraus-muller",
+  "version": "1.0.0",
+  "description": "anti theft network protection ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http:github.com/temploDeSalomao"
+  },
+  "author": "Vitor de Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-merge": "^0.1.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-series": "^1.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.11.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.0"
+  }
+}

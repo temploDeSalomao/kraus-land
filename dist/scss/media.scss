@@ -1,0 +1,27 @@
+@media (max-width: 990px) {
+    main {
+        // container - shield network
+        .container-shield {
+            .shield-title {
+                &:before {
+                    left: 40vw;
+                    bottom: 50px;
+                }
+            }
+        }
+        // Customized solutions
+        .customized-solutions-container {
+            .customized-solutions-title {
+                font-size: 90px;
+                margin: 80px 0 0;
+            }
+        }
+        // carousel-full
+        .carousel-full {
+            width: 100%;
+            .carousel-item {
+                width: 100%;
+            }
+        }
+    }
+}

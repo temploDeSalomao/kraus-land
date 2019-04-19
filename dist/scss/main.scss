@@ -1,0 +1,200 @@
+// Fonts
+.f-yellow {
+    color: #e89a27;
+}
+
+.f-gray {
+    color: #929496;
+}
+
+.f-black {
+    color: #000;
+}
+
+.f-white {
+    color: #fff;
+    &.opaque {
+        color: hsla(0, 0%, 100%, 0.5);
+    }
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+.lighter{
+    font-weight:300;
+}
+
+.bg-gray {
+    background: #292929;
+}
+
+.bg-gray-light {
+    background: #3a3a3a;
+}
+
+.bg-gray-bold {
+    background: #151515;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.row {
+    &.wrap {
+        flex-flow: row wrap;
+    }
+    &.nowrap {
+        flex-flow: row nowrap;
+    }
+}
+
+.column {
+    &.wrap {
+        flex-flow: column wrap;
+    }
+    &.no-wrap {
+        flex-flow: column nowrap;
+    }
+    &.reverse {
+        flex-flow: column-reverse wrap;
+    }
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.center {
+    justify-content: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.end {
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+.al-center {
+    align-items: center;
+    align-content: center;
+}
+
+.al-end {
+    align-content: flex-end;
+    align-items: flex-end;
+    align-self: flex-end;
+}
+
+.t-al-end {
+    text-align: right;
+}
+
+// Caroussel
+
+.carousel-full {
+    width: calc(100vw - 100px);
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row nowrap;
+    .carousel-item {
+        figure {
+            margin-bottom: 25px;
+            min-height: 405px;
+            display: flex;
+        }
+        .carousel-title {
+            font-size: 60px;
+            font-family: Heading Pro Compressed;
+            font-weight: 300;
+            margin-bottom: 37px;
+        }
+        .carousel-content {
+            max-width: 300px;
+            text-align: center;
+            font-size: 14px;
+        }
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+}
+
+// Btn
+
+.btn-yellow {
+    width: 210px;
+    height: 42px;
+    padding-right: 20px;
+    background: #202121;
+    border: 2px solid transparent;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: Heading Pro Compressed;
+    transition: all .3s ease-in-out;
+    border: 2px solid transparent;
+    position: relative;
+    i{
+        margin-right: 10px;
+    }
+ 
+    &:hover {
+        background: #e89a27;
+        color: #202121;
+        transition: all .3s ease-in-out;
+    }
+    &.border-yellow {
+        border: 2px solid #e89a27;
+    }
+    &.bg-gray {
+        background-color: #202121;
+    }
+}
+
+// our last blog news
+  .has-shade-title{
+        font-size: 50px;
+        height: 170px;
+        margin:90px 0 60px 0;
+        position: relative;
+        &:after{
+            bottom: 20px;
+            content: "";
+            display: block;
+            height: 2px;
+            position: absolute;
+            width: 102px;
+            background: #e89a27;
+        }
+
+        &:before{
+            content: attr(data-content);
+            position: absolute;
+            font-size: 200px;
+            -webkit-text-stroke: 2px #282828;
+            color: transparent;
+            font-family: Heading Pro Compressed;
+            font-weight: 400;
+            z-index: -2;
+            left: -13%;
+        }
+}
