@@ -5,12 +5,19 @@
 			11 4705.3636
 		</a>
 		<nav class="main-nav">
-			<a class="logo-header" href="./"><img src="dist/images/logo/logo-kraus-muller.png" alt=""></a>
-			<ul><a href=""></a>
-				<li class="uppercase"><a href="">Home</a></li>
-				<li class="uppercase"><a href="">Prensa-Cabos</a></li>
-				<li class="uppercase"><a href="">Orçamento</a></li>
-				
+			<a class="logo-header" href="./">
+				<img src="dist/images/logo/logo-kraus-muller.png" alt="">
+			</a>
+			<ul>
+				<li class="uppercase">
+					<a href="">Home</a>
+				</li>
+				<li class="uppercase">
+					<a href="">Prensa-Cabos</a>
+				</li>
+				<li class="uppercase">
+					<a href="">Orçamento</a>
+				</li>
 			</ul>
 		</nav>
 		<ul class="sociais-container">
