@@ -1,17 +1,14 @@
-$yellow:#fe9b01;
+$yellow: #fe9b01;
 
 body {
     font-family: Heading Pro,sans-serif;
     background: #000;
-    overflow-x:hidden;
+    overflow-x: hidden;
 }
 
-
-
-
-.btn_esconder{
+.btn_esconder {
     background: #fff;
-    border:1px solid #333;
+    border: 1px solid #333;
     border-radius: 25px;
     color: #333;
     display: flex;
@@ -24,26 +21,22 @@ body {
     height: 50px;
     cursor: pointer;
     transition: all .3s ease-in-out;
-    &:hover{
+
+    &:hover {
         background: #333;
         border-color: #fff;
-        color:#fff;
+        color: #fff;
     }
-
 }
 
-
-.main-bg.active{
-    background: url('../images/landing.jpg') no-repeat;
+.main-bg.active {
+    background: url("../images/landing.jpg") no-repeat;
     width: 100vw;
     height: 100%;
     position: absolute;
-    top:0;
-
+    top: 0;
     background-size: 99%;
 }
-
-
 
 .first-bg {
     background: #1d1d1d;
@@ -63,20 +56,23 @@ body {
     align-items: center;
     padding-top: 30px;
     position: relative;
+
     .tel-header {
-        font-size:1.333333vw ;
+        font-size: 1.333333vw;
         color: #fff;
         position: absolute;
         left: 5.77777vw;
         top: 8vh;
+
         i {
             transform: rotate(-90deg);
             font-size: 1.444444vw;
             margin-right: 4.555555px;
-            margin-top:2px;
+            margin-top: 2px;
             font-weight: 400;
         }
     }
+
     // container btn change language
     .sociais-container {
         list-style-type: none;
@@ -87,27 +83,26 @@ body {
         position: absolute;
         right: 67px;
 
-        li{
-
+        li {
             height: 30px;
-            width:30px;
+            width: 30px;
             right: 1vw;
             top: 1vh;
             background: $yellow;
             border-radius: 2px;
-            border:0;
+            border: 0;
             position: relative;
-            i{
-            font-size:25px;
-            color: #333;
-            position: relative;
-            bottom: -2px;
-            right: 4px;
-             
-            }
 
+            i {
+                font-size: 25px;
+                color: #333;
+                position: relative;
+                bottom: -2px;
+                right: 4px;
+            }
         }
     }
+
     // Home menu
     .main-nav {
         display: flex;
@@ -115,8 +110,9 @@ body {
         align-content: center;
         align-items: center;
         width: 75%;
-        padding:0px 0 30px;
+        padding: 0px 0 30px;
         position: relative;
+
         ul {
             list-style-type: none;
             display: flex;
@@ -124,6 +120,7 @@ body {
             justify-content: center;
             width: 100%;
             margin-top: 3.55555%;
+
             li {
                 display: flex;
                 align-items: center;
@@ -135,6 +132,7 @@ body {
                 background: rgba(0, 0, 0, 0.3);
                 border: 1px solid #353535;
                 transition: all .6s;
+
                 &:hover {
                     background-color: #282828;
                     border-bottom-color: #e89a27;
@@ -142,6 +140,7 @@ body {
                     padding-bottom: 2px;
                     transition: all .6s;
                 }
+
                 a {
                     display: flex;
                     flex: 1;
@@ -151,45 +150,49 @@ body {
                 }
             }
         }
-    .logo-header{
-        width: 10%;
-        position: relative;
-        top:5%;
-        left: 0.5%;
-    }
 
+        .logo-header {
+            width: 10%;
+            position: relative;
+            top: 5%;
+            left: 0.5%;
+        }
     }
 }
 
 main {
-z-index: 2;
-   .container-nosso-blog {
+    z-index: 2;
+
+    .container-nosso-blog {
         width: calc(100vw - 380px);
         color: #fff;
+
         .blog-item {
             .blog-title {
                 font-size: 30px;
                 margin-bottom: 1.8vh;
             }
+
             figure {
                 min-height: 300px;
                 margin-bottom: 2.5vh;
             }
+
             .about-post-blog {
                 margin-bottom: 2vh;
                 color: #929496;
-                font-size:14px;
-                i{
-                margin-right: 5px;
+                font-size: 14px;
 
+                i {
+                    margin-right: 5px;
                 }
-                    & > *:not(:first-child){
-                        margin-left: 15px;
-                    }
 
+                & > *:not(:first-child) {
+                    margin-left: 15px;
+                }
             }
 
-            .content-post-blog{
+            .content-post-blog {
                 font-size: 15px;
                 margin-bottom: 2.4vh;
             }
