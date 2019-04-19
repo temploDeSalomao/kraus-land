@@ -9,7 +9,7 @@
 			<ul><a href=""></a>
 				<li class="uppercase"><a href="">Home</a></li>
 				<li class="uppercase"><a href="">Prensa-Cabos</a></li>
-				<li class="uppercase"><a href="">Prensa-Cabos</a></li>
+				<li class="uppercase"><a href="">Orçamento</a></li>
 				
 			</ul>
 		</nav>
