@@ -1,1 +1,1 @@
-$(window).ready(function(){$(".btn_esconder").click(function(){$(".main-bg").hasClass("active")&&$(".main-bg").removeClass("active")})});
+$(window).ready(function(){$(".btn_esconder").click(function(){$(".main-bg").toggleClass("active")})});
