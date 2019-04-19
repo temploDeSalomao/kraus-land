@@ -1,3 +1,5 @@
+$yellow:#e89a27;
+
 body {
     font-family: Heading Pro,sans-serif;
     background: #000;
@@ -50,6 +52,7 @@ body {
             justify-content: center;
             height: 40px;
             width: 40px;
+            background: $yellow;
 
         }
     }
