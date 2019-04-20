@@ -305,12 +305,12 @@ img {
     width: auto;
     height: auto;
     padding-left: 40px;
-    background-size: contain;
     &:after{
         content: "";
         width: 20px;
         height: 20px;
         background: url('../dist/images/body/arrow_dots.png') no-repeat;
+        background-size: contain;
 
     }
     
