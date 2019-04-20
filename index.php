@@ -25,7 +25,7 @@
 						</figure>
 					</li>
 					<li class="certified">
-						<figure class="flex column reverse">
+						<figure class="flex column reverse no-wrap ">
 							<img class="flex al-center center full-basis " src="images/logo/CE.png" alt="">
 							<figcaption class="flex center al-center">Certificação</figcaption>
 						</figure>
