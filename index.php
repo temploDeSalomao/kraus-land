@@ -14,8 +14,6 @@
 			<figure class="col-sm-12 col-md-5 flex center al-center no-padding">
 					<img src="images/body/prensa-cabos.png" alt="">
 			</figure>
-
-			<h2 class="pad-le_35 f_white medium uppercase col-sm-12 col-md-5">vantagens:</h2>
 									
 		</section>
 	</main>
