@@ -21,7 +21,6 @@
 					<li class='box-ticked flex center al-center '>a</li>
 					<li class='box-ticked flex center al-center '>n</li>
 					<li class='box-ticked flex center al-center '>b</li>
-					<li class='box-ticked flex center al-center '>d</li>
 				</ul>
 				<a href="" class="btn"></a>
 			</div>
