@@ -322,7 +322,8 @@ img {
 
 
 .container-certified{
-    display: inline-flex;
+    display: flex;
+    flex-flow: row;
     justify-content: space-evenly;
     align-content: flex-start;
     list-style-type: none;
