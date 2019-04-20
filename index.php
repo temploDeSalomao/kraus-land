@@ -24,6 +24,12 @@
 							<figcaption class="flex center al-center">Conformidade</figcaption>
 						</figure>
 					</li>
+					<li>
+						<figure class="flex column reverse no-grow full-basis">
+							<img src="images/logo/rohs-compliant.png" alt="">
+							<figcaption class="flex center al-center">Conformidade</figcaption>
+						</figure>
+					</li>
 				</ul>
 				<a href="" class="btn">Quero so</a>
 			</div>
