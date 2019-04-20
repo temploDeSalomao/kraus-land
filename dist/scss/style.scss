@@ -196,7 +196,9 @@ main {
             justify-content: flex-start;
 
             .certified{
-                margin:0 5px;
+                &nth-of-type(even){
+                    marfin:0 5px.;
+                }
             }
         }
     }
