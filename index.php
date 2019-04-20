@@ -19,7 +19,7 @@
 				</ul>
 				<ul class="container-certified flex row nowrap al-start start pad-le_1">
 					<li class="certified" >
-						<figure class="flex column reverse no-grow ">
+						<figure class="flex column reverse no-grow full-basis">
 							<img src="images/logo/rohs-compliant.png" alt="">
 							<figcaption class="flex center al-center">Conformidade</figcaption>
 						</figure>
