@@ -18,10 +18,10 @@
 					<li>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
 				<ul>
-					<li class='box-ticked'>a</li>
-					<li class='box-ticked'>n</li>
-					<li class='box-ticked'>b</li>
-					<li class='box-ticked'>d</li>
+					<li class='box-ticked flex center al-center '>a</li>
+					<li class='box-ticked flex center al-center '>n</li>
+					<li class='box-ticked flex center al-center '>b</li>
+					<li class='box-ticked flex center al-center '>d</li>
 				</ul>
 				<a href="" class="btn"></a>
 			</div>
