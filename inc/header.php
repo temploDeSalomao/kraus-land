@@ -8,7 +8,7 @@
 			<a class="logo-header" href="./">
 				<img src="dist/images/logo/logo-kraus-muller.png" alt="">
 			</a>
-			<ul>
+			<ul class="flex row nowrap center">
 				<li class="uppercase flex al-center f-white ligther">
 					<a href="">Home</a>
 				</li>
