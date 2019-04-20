@@ -114,7 +114,7 @@ $hpc:'Heading Pro Compressed';
 }
 
 @function pad-top(n){
-    @return padding-top: + n;
+    @return n;
 } 
 
 .pad-top_{
