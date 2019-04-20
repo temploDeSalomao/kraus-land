@@ -4,7 +4,7 @@
 	<?php include 'inc/header.php'?>
 	<main>
 		<section class="container-fluid container-header">
-			<h1 class="uppercase f-white col-sm-12 col-md-12 no-padding pad-le_43 main-title compressed light">Prensa-cabos metálicos</h1>
+			<h1 class="uppercase f-white col-sm-12 col-md-12 no-padding pad-le_43 main-title compressed lighter">Prensa-cabos metálicos</h1>
 			
 				
 			<article class="col-sm-12 col-md-6 pad-le_43">
