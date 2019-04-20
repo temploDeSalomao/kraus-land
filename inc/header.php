@@ -9,13 +9,13 @@
 				<img src="dist/images/logo/logo-kraus-muller.png" alt="">
 			</a>
 			<ul>
-				<li class="uppercase">
+				<li class="uppercase flex al-center f-white ligther">
 					<a href="">Home</a>
 				</li>
-				<li class="uppercase">
+				<li class="uppercase flex al-center f-white ligther">
 					<a href="">Prensa-Cabos</a>
 				</li>
-				<li class="uppercase">
+				<li class="uppercase flex al-center f-white ligther">
 					<a href="">Orçamento</a>
 				</li>
 			</ul>
