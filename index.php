@@ -7,7 +7,7 @@
 			<h1 class="uppercase f-white col-sm-12 col-md-12 no-padding pad-le_35 main-title compressed medium">Prensa-cabos metálicos</h1>
 			
 				
-			<article class="col-sm-12 col-md-6 pad-le_38">
+			<article class="col-sm-12 col-md-6 pad-le_35">
 				<h1 class="f-white_g">titulo</h1>
 			</article>
 			<aside  class="col-sm-12 col-md-6">
