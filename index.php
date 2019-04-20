@@ -18,7 +18,12 @@
 					<li class='box-ticked compressed flex row nowrap start al-start '>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
 				<ul class="container-certified flex row nowrap">
-					<li></li>
+					<li>
+						<figure class="column-reverse wrap">
+							<img src="" alt="">
+							<figcaption></figcaption>
+						</figure>
+					</li>
 				</ul>
 				<a href="" class="btn">Quero so</a>
 			</div>
