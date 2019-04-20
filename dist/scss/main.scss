@@ -113,11 +113,10 @@ $hpc:'Heading Pro Compressed';
     padding-left: 4vw;
 }
 
-@mixin pad-top_($n){
-    padding-top:$n;
-} 
 
-.pad-top_(10);
+.pad-top_5{
+padding-top: 5vh;
+}
 
 
 
