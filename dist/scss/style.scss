@@ -225,7 +225,6 @@ main {
         align-items: flex-end;
         article {
             padding: 100px 60px;
-            border-right: 1px solid #000;
             max-width:850px;
             width: 100%; 
             .article-title {
@@ -258,7 +257,8 @@ main {
             background: url("../images/body/cable.jpg") no-repeat;
             background-size: cover;
             background-position-x: -100px;
-            min-height: 740px;
+            min-height: 500px;
+            width: 100%;
         }
     }
     .certification-divisor {
