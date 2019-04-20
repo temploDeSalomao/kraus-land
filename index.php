@@ -12,7 +12,7 @@
 				<p>A linha de prensa-cabos metálicos da Kraus-Muller foi desenvolvida ára proteger a sua instalação elétrica, evitando contato com a água, poeir e evitando perdas de energia com anéis de vedação e por ser metálica essa linha apresenta resistência mecânica superior aos presa-cabos de termoplástico. Para garantir a  vedação em suas instalações eĺétricas, conte com a linha Kraus-Muller.</p>
 				
 				<h3 class="medium uppercase compressed">Vantagens:</h3>
-				<ul class="lighter">
+				<ul class="lighter f_white">
 					<li>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
 					<li>Blindado contra açao eletromagnética;</li>
 					<li>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
