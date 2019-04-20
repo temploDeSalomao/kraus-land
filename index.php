@@ -5,7 +5,7 @@
 	<main>
 		<section class="container-fluid container-header">
 			<header class="col-sm-12 col-md-12 no-padding pad-le_35">
-				<h1 class="uppercase f-white  main-title compressed medium">Prensa-cabos metálicos</h1>
+				<h1 class="uppercase f-white main-title compressed medium">Prensa-cabos metálicos</h1>
 			</header>
 			
 			<article class="col-sm-12 col-md-6 pad-le_35 pad-top_25 lighter">
