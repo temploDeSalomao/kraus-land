@@ -60,6 +60,18 @@
 			<!-- When i try to use img here dont have the same effect that i want -->
 			<div class="col-sm-12 col-md-6 article-background"></div>
 		</div>
+		<div class="container-fluid certification-divisor">
+			<div class="col-sm-12 col-md-6 certification bg-gray-light uppercase">
+				certificações
+			</div>
+			<div class="col-sm-12 col-md-6 sponsorship bg-gray-bold">
+				<img src="images/logo/falcao-bauer.png" alt="Falcao Bauer">
+				<img src="images/logo/lab-system.png" alt="Lab System">
+				<img src="images/logo/ipt.png" alt="Instituto de Pesquisas Tecnológicas">
+				<img src="images/logo/rohs-compliant.png" alt="Rohs Compliant">
+				<img src="images/logo/CE.png" alt="Certification">
+			</div>
+		</div>
 	</main>
 	<?php include 'inc/footer.php'?>
 </body>
