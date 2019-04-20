@@ -74,9 +74,10 @@ img {
         background-color: #202121;
     }
 
-    &:before{
+    &:after{
         content:'\f30b';
         font-family: 'FontAwesome';
+        position: absolute;
 
     }
 }
