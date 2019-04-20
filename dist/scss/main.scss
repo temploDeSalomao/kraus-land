@@ -73,6 +73,12 @@ img {
     &.bg-gray {
         background-color: #202121;
     }
+
+    &:after{
+        content:'\f30b';
+        font-family: 'FontAwesome';
+
+    }
 }
 
 
