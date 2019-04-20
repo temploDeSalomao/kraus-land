@@ -44,7 +44,7 @@
 						</figure>
 					</li>
 				</ul>
-				<a href="" class="btn uppercase f-white bg-green flex center al-center">Quero solicitar um orçamento</a>
+				<a href="" class="btn uppercase f-white bg-green flex start al-center">Quero solicitar um orçamento</a>
 			</div>
 			<figure class="col-sm-12 col-md-5 flex center al-center no-padding">
 				<img class="flex al-center" src="images/body/prensa-cabos.png" alt="">
