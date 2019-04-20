@@ -8,7 +8,7 @@
 				<h1 class="uppercase f-white main-title compressed medium">Prensa-cabos metálicos</h1>
 			</header>
 			
-			<p class="col-sm-12 col-md-6 pad-le_35 pad-top_25 lighter f-white lighter flex">
+			<p class="col-sm-12 col-md-6 pad-le_35 pad-top_25 lighter  compressed f-white  flex">
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam nemo illum, rerum vitae iusto! Cumque impedit, deleniti ducimus obcaecati, fugit mollitia asperiores blanditiis, minima nesciunt, odit quos! Molestiae, eum itaque.
 			</p>
 			<aside  class="col-sm-12 col-md-6">
