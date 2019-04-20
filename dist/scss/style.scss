@@ -162,6 +162,9 @@ main {
         margin:0 auto;
         display: flex;
         margin-top: 3vh;
+        
+        div{
+            
         p{
             font-size: 14px;
             font-weight: 350;
@@ -169,12 +172,13 @@ main {
             padding-right: 30px;
             text-shadow: 1px 1px #000;
             font-weight: 400;
-            
+
 
         }
 
         figure{
             min-height: 450px;
+        }
         }
 
     }
