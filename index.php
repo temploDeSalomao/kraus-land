@@ -18,12 +18,7 @@
 					<li class='box-ticked compressed flex row nowrap start al-center '>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
 				<ul class="container-certified">
-					<li>
-						<figure class="flex column-reverse ">
-							<img class="flex al-center" src='images/logo/rohs-compliant.png' alt="">
-							<figcaption>Conformidade</figcaption>
-						</figure>
-					</li>
+				
 				</ul>
 				<a href="" class="btn">Quero so</a>
 			</div>
