@@ -24,6 +24,24 @@
 							<figcaption>Conformidade</figcaption>
 						</figure>
 					</li>
+					<li>
+						<figure class="flex column-reverse ">
+							<img class="flex al-center" src='images/logo/rohs-compliant.png' alt="">
+							<figcaption>Conformidade</figcaption>
+						</figure>
+					</li>
+					<li>
+						<figure class="flex column-reverse ">
+							<img class="flex al-center" src='images/logo/rohs-compliant.png' alt="">
+							<figcaption>Conformidade</figcaption>
+						</figure>
+					</li>
+					<li>
+						<figure class="flex column-reverse ">
+							<img class="flex al-center" src='images/logo/rohs-compliant.png' alt="">
+							<figcaption>Conformidade</figcaption>
+						</figure>
+					</li>
 				</ul>
 				<a href="" class="btn">Quero so</a>
 			</div>
