@@ -8,7 +8,7 @@
 			
 				
 			<article class="col-sm-12 col-md-6 pad-le_38">
-				<h1>titulo</h1>
+				<h1 class="f-white_g">titulo</h1>
 			</article>
 			<aside  class="col-sm-12 col-md-6">
 				<figure>
