@@ -20,8 +20,8 @@
 				<ul class="container-certified flex row nowrap">
 					<li>
 						<figure class="column-reverse wrap">
-							<img src="" alt="">
-							<figcaption></figcaption>
+							<img src="images/logo/rohs-compliant.png" alt="">
+							<figcaption>Conformidade</figcaption>
 						</figure>
 					</li>
 				</ul>
