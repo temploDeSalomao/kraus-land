@@ -160,7 +160,7 @@ body {
 main {
     .first-section{
         margin:0 auto;
-
+        display: flex;
         margin-top: 3vh;
         p{
             font-size: 14px;
@@ -169,7 +169,7 @@ main {
             padding-right: 30px;
             text-shadow: 1px 1px #000;
             font-weight: 400;
-            flex-direction: column;
+            
 
         }
 
