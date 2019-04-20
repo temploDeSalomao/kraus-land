@@ -20,7 +20,7 @@
 				<ul class="container-certified">
 					<li>
 						<figure>
-							<figcaption>onformidade</figcaption>
+							<figcaption>Conformidade</figcaption>
 							<img src='images/logo/rohs-compliant.png' alt="">
 						</figure>
 					</li>
