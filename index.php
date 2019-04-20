@@ -4,7 +4,7 @@
 	<?php include 'inc/header.php'?>
 	<main>
 		<section class="container-fluid container-md first-section row wrap ">
-			<header class="col-sm-12 col-md-12  pad-le_35">
+			<header class="col-sm-12 col-md-12 pad-le_35">
 				<h1 class="uppercase f-white main-title compressed medium">Prensa-cabos metálicos</h1>
 			</header>
 			
