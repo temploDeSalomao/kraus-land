@@ -52,8 +52,7 @@
 		</section>
 		<div class="container-fluid about-enterprise col-sm-12">
 			<article class="col-sm-12 col-md-6 bg-yellow">
-				<h1 class="article-title f-gray uppercase">Kraus-Muller</h1>
-				<h2 class="article-sub-title f-white uppercase ">Conheça a nossa história</h2>
+				<h2 class="article-title f-white uppercase ">Conheça a nossa história</h2>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
