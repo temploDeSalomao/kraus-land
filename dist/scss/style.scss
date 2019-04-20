@@ -194,15 +194,12 @@ main {
             border:1px solid #fff;
             width: 100%;
             justify-content: flex-start;
-
+            
 
             .certified{
                 &:nth-of-type(even){
                     margin:0 10px;
                 }
-            figure{
-                height: 50px;
-            }
             }
         }
     }
