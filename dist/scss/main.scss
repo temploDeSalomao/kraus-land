@@ -280,5 +280,9 @@ img {
 
 // Custom li style
 .box-ticked{
-    background: url('../../dist/images/body/arrow_dots.png')
+    background: url('../../dist/images/body/arrow_dots.png');
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    
 }
