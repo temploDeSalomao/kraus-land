@@ -64,9 +64,15 @@ $hpc:'Heading Pro Compressed';
     background: #151515;
 }
 
+// container
+
+.container-md{
+    max-width: calc(100vw - 150px);
+
+}
+
 
 // display
-
 
 .flex {
     display: flex;
