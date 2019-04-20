@@ -3,7 +3,7 @@
 	<div class="first-bg"></div>
 	<?php include 'inc/header.php'?>
 	<main>
-		<section class="container-fluid container-md first-section row wrap ">
+		<section class="container-fluid container-md first-section  ">
 			<header class="col-sm-12 col-md-12 pad-le_35">
 				<h1 class="uppercase f-white main-title compressed medium">Prensa-cabos metálicos</h1>
 			</header>
