@@ -15,7 +15,7 @@
 					<img src="images/body/prensa-cabos.png" alt="">
 			</figure>
 
-			h2.flex.row.nowrap.start.pad
+			<h2 class="flex row nowrap start pad-le_35 f_white medium uppercase">vantagens:</h2>
 									
 		</section>
 	</main>
