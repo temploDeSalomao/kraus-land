@@ -17,7 +17,7 @@
 					<li class='box-ticked compressed flex row nowrap start al-start '>Blindado contra açao eletromagnética;</li>
 					<li class='box-ticked compressed flex row nowrap start al-start '>Alto poder de vedação e travxamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
-				<ul class="container-certified flex row nowrap al-start pad-le_1">
+				<ul class="container-certified flex row nowrap al-start start pad-le_1">
 					<li class="certified" >
 						<figure class="flex column reverse no-grow full-basis">
 							<img src="images/logo/rohs-compliant.png" alt="">
