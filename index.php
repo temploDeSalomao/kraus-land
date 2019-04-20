@@ -25,7 +25,7 @@
 				<a href="" class="btn"></a>
 			</div>
 			<figure class="col-sm-12 col-md-5 flex center al-center no-padding">
-				<img src="images/body/prensa-cabos.png" alt="">
+				<img class="flex al-center" src="images/body/prensa-cabos.png" alt="">
 			</figure>
 		</section>
 
