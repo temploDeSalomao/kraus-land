@@ -13,14 +13,14 @@
 				
 				<h3 class="medium uppercase compressed text-shadow">Vantagens:</h3>
 				<ul class="lighter f-white no-decorate">
-					<li>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
-					<li>Blindado contra açao eletromagnética;</li>
-					<li>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
+					<li></li>
+					<li></li>
+					<li></li>
 				</ul>
 				<ul class="container-vantagens flex column wrap start space-around no-decorate" >
-					<li class='box-ticked flex center al-center '>a</li>
-					<li class='box-ticked flex center al-center '>n</li>
-					<li class='box-ticked flex center al-center '>b</li>
+					<li class='box-ticked flex center al-center '>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
+					<li class='box-ticked flex center al-center '>Blindado contra açao eletromagnética;</li>
+					<li class='box-ticked flex center al-center '>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
 				<a href="" class="btn"></a>
 			</div>
