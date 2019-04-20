@@ -203,6 +203,10 @@ main {
                 figure{
                     height: 90px;
                     flex-wrap: nowrap;
+                    img{
+                        display: flex;
+                        align-self: center;
+                    }
                 }
             }
         }
