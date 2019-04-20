@@ -19,7 +19,7 @@
 				</ul>
 				<ul class="container-certified">
 					<li>
-						<figure class="flex column-reverse ">
+						<figure class="flex column-reverse wrap ">
 							<img src='images/logo/rohs-compliant.png' alt="">
 							<figcaption>Conformidade</figcaption>
 						</figure>
