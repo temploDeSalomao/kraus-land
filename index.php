@@ -16,9 +16,6 @@
 			<figure class="col-sm-12 col-md-5 flex center al-center no-padding">
 				<img src="images/body/prensa-cabos.png" alt="">
 			</figure>
-			
-
-			
 		</section>
 	</main>
 	<?php include 'inc/footer.php'?>
