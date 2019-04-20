@@ -19,9 +19,9 @@
 				</ul>
 				<ul class="container-certified">
 					<li>
-						<figure>
-							<figcaption>Conformidade</figcaption>
+						<figure class="flex column wrap">
 							<img src='images/logo/rohs-compliant.png' alt="">
+							<figcaption>Conformidade</figcaption>
 						</figure>
 					</li>
 				</ul>
