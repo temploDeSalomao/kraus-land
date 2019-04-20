@@ -110,8 +110,6 @@ $hpc:'Heading Pro Compressed';
 
 
 // margin | padding 
-
-
 .no-margin {
     margin: 0;
 }
@@ -146,7 +144,6 @@ padding-top: 2.555555vh;
 
 
 // align
-
 .center {
     justify-content: center;
 }
@@ -181,8 +178,9 @@ padding-top: 2.555555vh;
     text-align: right;
 }
 
-// Caroussel
 
+
+// Caroussel
 .carousel-full {
     width: calc(100vw - 100px);
     margin: 0 auto;
@@ -217,8 +215,9 @@ img {
     max-width: 100%;
 }
 
-// Btn
 
+
+// Btn
 .btn {
     width: 210px;
     height: 42px;
@@ -249,6 +248,7 @@ img {
     }
 }
 
+
 // our last blog news
   .has-shade-title{
         font-size: 50px;
@@ -276,4 +276,9 @@ img {
             z-index: -2;
             left: -13%;
         }
+}
+
+// Custom li style
+.box-ticked{
+    background: url('../../dist/images/body/arrow_dots.png')
 }
