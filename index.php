@@ -17,7 +17,7 @@
 					<li>Blindado contra açao eletromagnética;</li>
 					<li>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
-				<ul class="container-vantagens flex column no-wrap start" >
+				<ul class="container-vantagens flex column no-wrap start space-around" >
 					<li class='box-ticked flex center al-center '>a</li>
 					<li class='box-ticked flex center al-center '>n</li>
 					<li class='box-ticked flex center al-center '>b</li>
