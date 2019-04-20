@@ -9,7 +9,7 @@
 			</header>
 			
 			<p class="col-sm-12 col-md-6 pad-le_35 pad-top_25 lighter f-white lighter flex">
-				<h1 class="">titulo</h1>
+				terste
 			</p>
 			<aside  class="col-sm-12 col-md-6">
 				<figure>
