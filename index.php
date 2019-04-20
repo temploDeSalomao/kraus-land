@@ -15,6 +15,7 @@
 				<ul>
 					<li>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
 					<li>Blindado contra açao eletromagnética;</li>
+					<li>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
 			</div>
 			<figure class="col-sm-12 col-md-5 flex center al-center no-padding">
