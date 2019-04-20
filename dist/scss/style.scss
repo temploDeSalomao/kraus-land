@@ -261,6 +261,31 @@ main {
             // min-height: 740px;
         }
     }
+    .certification-divisor {
+        padding: 0 100px;
+        display: inline-flex;
+        color: #929496;
+        .certification {
+            display: flex;
+            padding: 10px;
+            height: 160px;
+            justify-content: center;
+            align-items: center;
+            font-size: 50px;
+            font-weight: 300;
+        }
+        .sponsorship {
+            display: flex;
+            flex-flow: row nowrap;
+            padding: 10px 0;
+            justify-content: space-evenly;
+            align-items: center;
+            img {
+                margin: 0 5px;
+                align-self: center;
+            }
+        }
+    }
 
 
 
