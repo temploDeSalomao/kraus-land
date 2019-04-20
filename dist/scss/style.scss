@@ -1,5 +1,5 @@
 $yellow: #fe9b01;
-
+$hpc:'Heading Pro Compressed';
 body {
     font-family: Heading Pro,sans-serif;
     background: #000;
@@ -234,7 +234,7 @@ main {
                 line-height: 40px;
                 position: relative;
                 margin-bottom: 60px;
-                font-family: $hpc;
+                font-family: $
                 &:after {
                     content: '';
                     width: 5.8vw;
