@@ -323,5 +323,9 @@ img {
 
 .container-certified{
     display: inline-flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-content: flex-start;
+    text-decoration: none;
 }
 
