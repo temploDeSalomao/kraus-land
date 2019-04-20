@@ -302,11 +302,17 @@ img {
 
 // Custom li style
 .box-ticked{
-    background: url('../dist/images/body/arrow_dots.png') no-repeat;
-    width: 20px;
-    height: 20px;
+    width: auto;
+    height: auto;
     padding-left: 30px;;
     background-size: contain;
+    &:after{
+        content: "";
+        width: 20px;
+        height: 20px;
+        background: url('../dist/images/body/arrow_dots.png') no-repeat;
+
+    }
     
 }
 
