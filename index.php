@@ -11,15 +11,15 @@
 			<div class="col-sm-12 col-md-7 pad-le_352 pad-top_15 f-white_g compressed flex column wrap no-grow text-shadow">
 				<p>A linha de prensa-cabos metálicos da Kraus-Muller foi desenvolvida ára proteger a sua instalação elétrica, evitando contato com a água, poeir e evitando perdas de energia com anéis de vedação e por ser metálica essa linha apresenta resistência mecânica superior aos presa-cabos de termoplástico. Para garantir a  vedação em suas instalações eĺétricas, conte com a linha Kraus-Muller.</p>
 				
-				<h3 class="medium uppercase  text-shadow">Vantagens:</h3>
+				<h3 class="medium uppercase text-shadow">Vantagens:</h3>
 				<ul class="container-vantagens flex column wrap al-start space-around no-decorate" >
 					<li class='box-ticked compressed flex row nowrap start al-start '>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
 					<li class='box-ticked compressed flex row nowrap start al-start '>Blindado contra açao eletromagnética;</li>
-					<li class='box-ticked compressed flex row nowrap start al-start '>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
+					<li class='box-ticked compressed flex row nowrap start al-start '>Alto poder de vedação e travxamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
 				<ul class="container-certified flex row nowrap">
 					<li>
-						<figure class="flex column reverse no-grow">
+						<figure class="flex column reverse no-grow full-basis">
 							<img src="images/logo/rohs-compliant.png" alt="">
 							<figcaption>Conformidade</figcaption>
 						</figure>
