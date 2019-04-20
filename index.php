@@ -17,8 +17,8 @@
 					<li class='box-ticked compressed flex row nowrap start al-start '>Blindado contra açao eletromagnética;</li>
 					<li class='box-ticked compressed flex row nowrap start al-start '>Alto poder de vedação e travamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
 				</ul>
-				<ul class="container-certified">
-
+				<ul class="container-certified flex row nowrap">
+					<li></li>
 				</ul>
 				<a href="" class="btn">Quero so</a>
 			</div>
