@@ -13,9 +13,9 @@
 				
 				<h3 class="medium uppercase compressed text-shadow">Vantagens:</h3>
 				<ul class="container-vantagens flex column wrap start space-around no-decorate" >
-					<li class='box-ticked flex start al-center '>a</li>
-					<li class='box-ticked flex start al-center '>n</li>
-					<li class='box-ticked flex start al-center '>b</li>
+					<li class='box-ticked flex row nowrap start al-center '>a</li>
+					<li class='box-ticked flex row nowrap start al-center '>n</li>
+					<li class='box-ticked flex row nowrap start al-center '>b</li>
 				</ul>
 			<!-- 	<ul class="lighter f-white no-decorate">
 					<li>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
