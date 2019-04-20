@@ -27,7 +27,7 @@
 					<li class="certified">
 						<figure class="flex column reverse no-grow full-basis">
 							<img src="images/logo/rohs-compliant.png" alt="">
-							<figcaption class="flex center al-center">Conformidade</figcaption>
+							<figcaption class="flex center al-center">Certificação</figcaption>
 						</figure>
 					</li>
 
