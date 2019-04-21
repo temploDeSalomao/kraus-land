@@ -468,6 +468,18 @@ main {
                 .content-aside{
                     background: #fff;
                     height: 350px;
+
+                    .tabela{
+                        visibility: hidden;
+                        opacity: 0;
+                        transition: all .2s;
+                        &.active{
+                        visibility: visible;
+                        opacity: 1;
+
+                        }
+
+                    }
                 }
                 }
 
