@@ -14,7 +14,7 @@ $('.tab-aside').click(function(){
 			if($(this).hasClass('active')){
 			$(this).removeClass('active');
 		}
-		else{
+		else{cd va
 			$(this).addClass('active');
 		}
 	}) 
