@@ -96,7 +96,7 @@
 								<li class="f-white">O Prensa Cabo Metálico Rosca PG é indicado para furo roscado ou passante.</li>
 							</ul>
 						</header>
-						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic">
+						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
 							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
 							<figcaption>
 								<div class="product-images flex row nowrap space-evenly">
