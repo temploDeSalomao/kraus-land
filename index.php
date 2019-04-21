@@ -134,6 +134,61 @@
 						</div>
 					</aside>
 				</div>
+				<div class="col-sm-12 col-md-12 container-products row nowrap">
+					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
+						<header class="col-sm-12 col-md-6 flex column wrap">
+							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
+							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<p class="f-white">Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
+							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
+							<ul class="flex column no wrap f-white no-decorate">
+								<li class="f-white"><b>Material:</b> latão niquelado. PA 5 e borracha injetável;</li>
+								<li class="f-white"><b>Norma:</b> DIN 46320 - EN 50282;</li>
+								<li class="f-white"><b>Proteção:</b> Ip 68;</li>
+								<li class="f-white"><b>Temperatura de Operação:</b> -40°C à 100°C e 150°C para curto período de tempo;</li>
+								<li class="f-white">O Prensa Cabo Metálico Rosca PG é indicado para furo roscado ou passante.</li>
+							</ul>
+						</header>
+						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
+							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
+							<figcaption class="flex column wrap">
+								<ul class="product-images flex space-around no-padding no-decorate">
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+								</ul>
+								<a href="" class="btn-small bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							</figcaption>
+						</figure>
+					</section>
+					<aside class="col-sm-12 col-md-6 bg-gray">
+						<div class="outer-aside-content flex column wrap">
+							<div class="title-aside flex row nowrap">
+								<span class="uppercase flex al-center center active tab-aside" data-slide="1"> Especificações Técnicas</span>
+								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
+							</div>
+							<div class="content-aside">
+								<div class="tabela active">
+									teste
+								</div>
+								<div class="tabela">
+									testesssss
+								</div>
+							</div>
+						</div>
+					</aside>
+				</div>
 			</div>
 			
 		</article>
