@@ -121,7 +121,7 @@
 						<div class="outer-aside-content flex column wrap">
 							<div class="title-aside flex row nowrap">
 								<span class="uppercase flex al-center center active tab-aside" data-slide="1"> Especificações Técnicas</span>
-								<span class="uppercase flex al-center center tab-aside" data-slide="1"> Desenho Técnico</span>
+								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
 							</div>
 							<div class="content-aside">
 								<div class="tabela-1">
