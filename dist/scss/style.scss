@@ -305,11 +305,14 @@ main {
             h3{
                 font-size: 50px;
                 font-weight: 400;
+                position: relative;
                 &:after{
                     content: '';
                     width: 80%;
                     height: 1px;
                     background: $yellow;
+                    position: absolute;
+                    left: 0;
                 }
             }
             h4{
