@@ -124,10 +124,10 @@
 								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
 							</div>
 							<div class="content-aside">
-								<div class="tabela-1">
+								<div class="tabela active">
 									teste
 								</div>
-								<div class="tabela-2">
+								<div class="tabela">
 									testesssss
 								</div>
 							</div>
