@@ -332,6 +332,8 @@ main {
             padding: 0 70px;
             .box-products{
                 max-height: 400px;
+                display: flex;
+                flex-flow: column wrap;
             }
         }
 
