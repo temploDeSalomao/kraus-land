@@ -85,7 +85,7 @@
 							>
 					</header>
 
-				<figure col-sm-12 col-md-6 flex column wrapcol-sm-12 col-md-6 flex column wrapcol-sm-12 col-md-6 flex column wrap>
+				<figure class="col-sm-12 col-md-6 flex column wrap">
 					<img src="images/products/rosca-pg.jpg" alt="">
 				</figure>
 				</section>
