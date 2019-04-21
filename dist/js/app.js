@@ -11,19 +11,19 @@ $(window).ready(function(){
 
 $('.tab-aside').click(function(){
 	$('.tab-aside').each(function(){
-			if($(this).hasClass('active')){
-			$(this).removeClass('active');
+			if($('.tab-aside').hasClass('active')){
+			$('.tab-aside').removeClass('active');
 		}
 		else{
-			$(this).addClass('active');
+			$('.tab-aside').addClass('active');
 		}
 	});
 	$('.tabela').each(function(){
-		if($(this).hasClass('active')){
-			$(this).removeClass('active');
+		if($('.tabela').hasClass('active')){
+			$('.tabela').removeClass('active');
 		}
 		else{
-			$(this).addClass('active');
+			$('.tabela').addClass('active');
 		}
 	})
 });
