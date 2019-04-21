@@ -326,8 +326,11 @@ main {
             }
         }
 
-    .container-products{
+    .outer-container-products{
         margin-top:90px;
+        .container-products{
+            padding: 0 70px;
+        }
 
     }
 
