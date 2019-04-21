@@ -117,9 +117,6 @@
 							</figcaption>
 						</figure>
 					</section>
-					<div class="col-sm-12 col-md-6 bg-gray">
-						teste
-					</div>
 				</div>
 			</div>
 			
