@@ -82,7 +82,7 @@
 				<section class="col-sm-12 col-md-6">
 					<h4 class="bold f-white">teste</h4>
 				<figure>
-					<img src="" alt="">
+					<img src="images/products/rosca-pg.jpg" alt="">
 				</figure>
 				</section>
 					
