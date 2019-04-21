@@ -477,6 +477,8 @@ main {
                         position: relative;
                         justify-content: center;
                         align-items: center;
+                        align-content: center;
+                        align-self: center;
                         &.active{
                         visibility: visible;
                         opacity: 1;
