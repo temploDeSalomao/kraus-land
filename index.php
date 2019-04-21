@@ -59,7 +59,7 @@
 			<!-- When i try to use img here dont have the same effect that i want -->
 			<div class="col-sm-12 col-md-6 article-background"></div>
 		</div>
-		<div class="container-md certification-divisor">
+		<div class="container-fluid certification-divisor">
 			<div class="col-sm-12 col-md-6 certification bg-black border uppercase compressed ">
 				certificações <b class="f-white">&nbsp;kraus muller:</b>
 			</div>
@@ -78,7 +78,7 @@
 				<h2 class="uppercase f-white compressed">prensa-cabos metálicos</h2>
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
-			<div class="container no-padding">
+			<div class="container-md ">
 				<div class="col-sm-12 col-md-12">
 					<section class="col-sm-12 col-md-6 flex row reverse">
 						<header class="col-sm-12 col-md-6 flex column wrap">
