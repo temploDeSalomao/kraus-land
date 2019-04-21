@@ -80,7 +80,7 @@
 			<div class="col-sm-12 col-md-12">
 
 				<section class="col-sm-12 col-md-6 flex row reverse">
-					<header class="flex column wrap center">
+					<header class="flex column wrap al-center">
 						<h4 class="bold f-white">teste</h4>
 					</header>
 
