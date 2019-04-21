@@ -71,27 +71,27 @@
 				<img src="images/logo/CE.png" alt="Certification">
 			</div>
 		</div>
+
+<!-- linha industrial -->
 		<article class="container-industrial-line">
 			<header class=" col-sm-12 col-md-12 flex center al-center column reverse no wrap">
 				<h2 class="uppercase f-white compressed">prensa-cabos metálicos</h2>
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
-		<div class="container-md">
-			<div class="col-sm-12 col-md-12">
-
-				<section class="col-sm-12 col-md-6 flex row reverse">
-					<header class="col-sm-12 col-md-6 flex column wrap">
-						<h4 class="bold f-white">teste</h4
+			<div class="container-md">
+				<div class="col-sm-12 col-md-12">
+					<section class="col-sm-12 col-md-6 flex row reverse">
+						<header class="col-sm-12 col-md-6 flex column wrap">
+							<h4 class="bold f-white">teste</h4
 							>
-					</header>
-
-				<figure class="col-sm-12 col-md-6 flex column wrap">
-					<img src="images/products/rosca-pg.jpg" alt="">
-				</figure>
-				</section>
+						</header>
+						<figure class="col-sm-12 col-md-6 flex column wrap">
+							<img src="images/products/rosca-pg.jpg" alt="">
+						</figure>
+					</section>
 					
+				</div>
 			</div>
-		</div>
 			
 		</article>
 	</main>
