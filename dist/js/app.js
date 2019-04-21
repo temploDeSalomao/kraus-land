@@ -4,4 +4,20 @@ $(window).ready(function(){
 		$(this).val('Show');
 		x();
 	})
+
+
+
+// Change div content - pour products
+
+$('#btnClick').on('click', function() {
+    if ($('#1').css('display') != 'none') {
+
+        $('#2').html($('#static').html()).show().siblings('div').hide();
+    } else if ($('#2').css('display') != 'none') {
+
+        $('#1').show().siblings('div').hide();
+
+    }
+});
+
 });
