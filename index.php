@@ -73,7 +73,7 @@
 		</div>
 		<article class="container-industrial-line">
 			<header class=" col-sm-12 col-md-12 flex center al-center column reverse no wrap">
-				<h3 class="uppercase f-white ">prensa-cabos metálicos</h3>
+				<h3 class="uppercase f-white compressed">prensa-cabos metálicos</h3>
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
 
