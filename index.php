@@ -77,10 +77,15 @@
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
 		<div class="container-md">
-			<div class="col-sm-6 col-md-6 flex row reverse">
-				<section>
+			<div class="col-sm-12 col-md-12 flex row reverse">
+
+				<section class="col-sm-12 col-md-6">
 					<h4 class="bold f-white">teste</h4>
+				<figure>
+					<img src="" alt="">
+				</figure>
 				</section>
+					
 			</div>
 		</div>
 			
