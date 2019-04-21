@@ -82,7 +82,7 @@
 				<div class="col-sm-12 col-md-12 container-products">
 					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
 						<header class="col-sm-12 col-md-6 flex column wrap">
-							<h4 class="bold f-yellow uppercase underline-white">rosca pg</h4>
+							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
 							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
 
 							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
