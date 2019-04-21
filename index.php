@@ -78,8 +78,8 @@
 				<h2 class="uppercase f-white compressed">prensa-cabos metálicos</h2>
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
-			<div class="container-md container-products">
-				<div class="col-sm-12 col-md-12">
+			<div class="container-md outer-container-products">
+				<div class="col-sm-12 col-md-12 ">
 					<section class="col-sm-12 col-md-6 flex row reverse">
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-white">teste</h4
