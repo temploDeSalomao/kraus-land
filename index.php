@@ -72,6 +72,7 @@
 				<img src="images/logo/CE.png" alt="Certification">
 			</div>
 		</div>
+		<section class="cotnainer-industrial-line">]</section>
 	</main>
 	<?php include 'inc/footer.php'?>
 </body>
