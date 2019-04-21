@@ -350,13 +350,7 @@ main {
                 li{
                     position: relative;
                     width: 35px;
-                    &:after{
-                        content: '';
-                        height: 80px;
-                        width: 280px;
-                        background: #fff;
-                    }
-                    img{
+                       img{
                         border-radius: 60px;
                     }
                 }
