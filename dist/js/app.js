@@ -26,7 +26,7 @@ $('.tab-aside').click(function(e){
 			$(this).addClass('active');
 		}
 	})
-	e.stopPropagation();
+	// e.stopPropagation();
 });
 
 });
