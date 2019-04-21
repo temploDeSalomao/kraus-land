@@ -431,6 +431,7 @@ main {
             aside{
                 height: 480px;
                 position: relative;
+                left: 10px;
                 &:before{
                     content: '';
                     background: #292929;
