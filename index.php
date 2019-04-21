@@ -79,7 +79,7 @@
 		<div class="container-md">
 			<div class="col-sm-6 col-md-6 flex row reverse">
 				<section>
-					<h4 class="bold"></h4>
+					<h4 class="bold f-white">teste</h4>
 				</section>
 			</div>
 		</div>
