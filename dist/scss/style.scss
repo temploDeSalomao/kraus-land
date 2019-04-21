@@ -354,9 +354,12 @@ main {
                 }
             }
 
+            p,ul{
+                line-height: 18px;
+            }
             p{
                 margin-bottom: 15px;
-                line-height: 18px;
+                
                 font-size: 14px;
             }
             span{
