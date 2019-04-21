@@ -1,5 +1,5 @@
 $(window).ready(function(){
-	$('.btn_esconxder').click(function(x){
+	$('.btn_esconder').click(function(x){
 			$('.main-bg').toggleClass('active');
 		$(this).val('Show');
 		x();
@@ -18,7 +18,7 @@ $('.tab-aside').click(function(){
 			$(this).addClass('active');
 		}
 	}) 
-	$(('.tabela')).each(function(){
+	$('.tabela').each(function(){
 		if($(this).hasClass('active')){
 			$(this).removeClass('active');
 		}
@@ -26,7 +26,6 @@ $('.tab-aside').click(function(){
 			$(this).addClass('active');
 		}
 	})
-	// e.stopPropagation();
 });
 
 });
