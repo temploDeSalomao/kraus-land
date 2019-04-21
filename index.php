@@ -84,6 +84,10 @@
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-yellow uppercase underline-white">rosca pg</h4>
 							<p>O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<p>Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
+							
 						</header>
 						<figure class="col-sm-12 col-md-6 flex column wrap">
 							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
