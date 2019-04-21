@@ -104,7 +104,6 @@
 									<img src="images/products/rosca-pg.jpg" alt="">
 									<img src="images/products/rosca-pg.jpg" alt="">
 									<img src="images/products/rosca-pg.jpg" alt="">
-									
 								</div>
 							</figcaption>
 						</figure>
