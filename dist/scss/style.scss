@@ -349,6 +349,11 @@ main {
 
             figcaption {
                 height: 130px;
+
+                .btn-small{
+                    width: 100%;
+                    background: #000;
+                }
             }
 
             .product-images {
