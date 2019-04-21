@@ -82,7 +82,7 @@
 				<div class="col-sm-12 col-md-12 container-products">
 					<section class="col-sm-12 col-md-6 flex row reverse">
 						<header class="col-sm-12 col-md-6 flex column wrap">
-							<h4 class="bold f-white">teste</h4
+							<h4 class="bold f-yellow uppercase underline-white">rosca pg</h4
 							>
 						</header>
 						<figure class="col-sm-12 col-md-6 flex column wrap">
