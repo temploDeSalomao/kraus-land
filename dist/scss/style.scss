@@ -450,6 +450,7 @@ main {
                     background: #dadada;
                     width:100%;
 
+
                 .title-aside{
                     justify-content: space-evenly;
                     span{
@@ -458,6 +459,10 @@ main {
                         margin:0;
                         font-size: 25px;
                         text-shadow: .6px .6px #000;
+                        transition: all .6s ease-in-out;
+                        &:active{
+                            background: #fff;
+                        }
                     }
                 }
                 }
