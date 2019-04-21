@@ -99,7 +99,7 @@
 						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
 							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
 							<figcaption>
-								<div class="product-images flex row nowrap full-basis space-evenly">
+								<div class="product-images flex row nowrap full-basis no-grow space-evenly">
 									<img src="images/products/rosca-pg.jpg" alt="">
 									<img src="images/products/rosca-pg.jpg" alt="">
 									<img src="images/products/rosca-pg.jpg" alt="">
