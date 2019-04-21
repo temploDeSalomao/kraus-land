@@ -353,7 +353,8 @@ main {
                        img{
                         border-radius: 60px;
                         position: relative;
-                        &:after{
+                    }
+                                            &:after{
                             content: '';
                             position: absolute;
                             left: 0;
@@ -361,7 +362,7 @@ main {
                             height: 80px;
                             top: 0;
                         }
-                    }
+
                 }
             }
             h4{
