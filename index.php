@@ -78,7 +78,7 @@
 			</header>
 		<div class="container-md">
 			<div class="col-sm-6 col-md-6 flex row reverse">
-				<section></section>
+				<section>yrdyr</section>
 			</div>
 		</div>
 			
