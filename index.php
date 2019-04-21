@@ -76,7 +76,7 @@
 				<h2 class="uppercase f-white compressed">prensa-cabos metálicos</h2>
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
-		<div class="col-sm-6 col-md-6">
+		<div class="col-sm-6 col-md-6 flex row reverse">
 			
 		</div>
 			
