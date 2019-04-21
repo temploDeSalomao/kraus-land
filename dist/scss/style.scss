@@ -352,6 +352,12 @@ main {
                     width: 35px;
                        img{
                         border-radius: 60px;
+                        &:after{
+                            content: '';
+                            left: 0;
+                            width: 80px;
+                            height: 80px;
+                        }
                     }
                 }
             }
