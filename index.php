@@ -30,7 +30,6 @@
 							<figcaption class="flex center al-center">Certificação</figcaption>
 						</figure>
 					</li>
-
 					<li class="certified">
 						<figure class="flex column reverse no-grow full-basis">
 							<img src="images/logo/rohs-compliant.png" alt="">
@@ -73,8 +72,10 @@
 			</div>
 		</div>
 		<section class="container-industrial-line col-sm-12 col-md-12 flex center al-center column reverse no wrao">
-			<h3 class="uppercase f-white">prensa-cabos metálicos</h3>
-			<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
+			<header>
+				<h3 class="uppercase f-white">prensa-cabos metálicos</h3>
+				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
+			</header>
 		</section>
 	</main>
 	<?php include 'inc/footer.php'?>
