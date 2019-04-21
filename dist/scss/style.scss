@@ -429,6 +429,16 @@ main {
 
             aside{
                 height: 460px;
+                position: relative;
+                &:after{
+                    content: '';
+                    background: ##292929;
+                    height: 460px;
+                    left: 0;
+                    top: 0;
+                    position: absolute;
+
+                }
             }
 
            
