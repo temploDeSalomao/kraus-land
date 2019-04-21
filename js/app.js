@@ -1,1 +1,1 @@
-$(window).ready(function(){$(".btn_esconder").click(function(i){$(".main-bg").toggleClass("active"),$(this).val("Show"),i()}),$(".tab-aside").click(function(){})});
+$(window).ready(function(){$(".btn_esconder").click(function(a){$(".main-bg").toggleClass("active"),$(this).val("Show"),a()}),$(".tab-aside").click(function(){$(".tabela").each(function(){$(this).hasClass("active")?$(this).removeClass("active"):$(this).addClass("active")})})});
