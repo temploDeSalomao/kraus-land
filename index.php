@@ -74,6 +74,7 @@
 		</div>
 		<section class="cotnainer-industrial-line col-sm-12 col-md-12 flex center al-center column reverse no wrao">
 			<h3 class="uppercase f-white">prensa-cabos metálicos</h3>
+			<h4 class="lighter f-yellow uppercase">linha industrial</h4>
 		</section>
 	</main>
 	<?php include 'inc/footer.php'?>
