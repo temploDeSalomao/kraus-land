@@ -53,8 +53,8 @@
 			<article class="col-sm-12 col-md-6 bg-yellow">
 				<h3 class="article-title f-white uppercase ">Conheça  <br/><b class="f-white">nossa história</b></h3>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a <b>Kraus - Muller Indústria e Comércio Ltda</b>, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
-				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
-				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
+				<p>Com aprimorada tecnologia, a empresa apresenta uma linha exclusiva de produtos para aplicação nos segmentos de instalções elétricas, máquinas insdustriais, entre outros que exijam alta confiabilidade e aderência aos mais rígidos padrões de qualidade.</p>
+				<p>A <b>Kraus-Muller</b> é uma empresa que atende com base na norma ISO9001 desde 2010, aplicando a metodologia da rastreabilidade em todas as etapas de seu processo de insdutrialização. Nosso alicerces de bons princípios, segurança, confiança, solidez, desenvolvimento técnologo e respeito elevam o padrão da Kraus-Muller. Estimulamos nossos funcionários a adquirir mais conhecimentos com oportunidades para crescerem em seus campos de especialização.</p>
 			</article>
 			<!-- When i try to use img here dont have the same effect that i want -->
 			<div class="col-sm-12 col-md-6 article-background"></div>
