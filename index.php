@@ -124,7 +124,12 @@
 								<span class="uppercase flex al-center center"> Desenho Técnico</span>
 							</div>
 							<div class="content-aside">
-								
+								<div class="tabela-1">
+									teste
+								</div>
+								<div class="tabela-2">
+									testesssss
+								</div>
 							</div>
 						</div>
 					</aside>
