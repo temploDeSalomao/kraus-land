@@ -339,6 +339,11 @@ main {
             .product-pic{
                 max-width: 275px;
             }
+            .product-images{
+                img{
+                    max-width: 20%;
+                }
+            }
             h4{
                 font-size: 32px;
                 position: relative;
