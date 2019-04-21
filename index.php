@@ -118,7 +118,7 @@
 						</figure>
 					</section>
 					<aside class="col-sm-12 col-md-6 bg-gray">
-						<div class="outer-aside-content">
+						<div class="outer-aside-content flex columnwrap">
 							<div class="title-aside flex row nowrap">
 								<span class="uppercase"> Especificações Técnicas</span>
 								<span class="uppercase"> Desenho Técnico</span>
