@@ -480,6 +480,7 @@ main {
                         align-content: center;
                         align-self: center;
                         transition: visibility .4s;
+                        height: 0;
                         &.active{
                         visibility: visible;
                         opacity: 1;
