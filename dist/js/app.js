@@ -9,24 +9,23 @@ $(window).ready(function(){
 
 // Change div content - pour products
 
-$('.tab-aside').click(function(x){
+$('.tab-aside').click(function(){
 	$('.tab-aside').each(function(){
-			if($('.tab-aside').hasClass('active')){
-			$('.tab-aside').removeClass('active');
+			if($(this).hasClass('active')){
+			$(this).removeClass('active');
 		}
 		else{
-			$('.tab-aside').addClass('active');
+			$(this).addClass('active');
 		}
 	});
 	$('.tabela').each(function(){
-		if($('.tabela').hasClass('active')){
-			$('.tabela').removeClass('active');
+		if($(this).hasClass('active')){
+			$(this).removeClass('active');
 		}
 		else{
-			$('.tabela').addClass('active');
+			$(this).addClass('active');
 		}
 	})
-			x.stopPropagation();
 });
 
 });
