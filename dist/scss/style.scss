@@ -345,6 +345,10 @@ main {
                 height: 130px;
             }
             .product-images{
+                height: 200px;
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
                 li{
                     position: relative;
                     width: 35px;
