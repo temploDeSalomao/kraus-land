@@ -352,16 +352,18 @@ main {
                     width: 35px;
                        img{
                         border-radius: 60px;
-                    }
-                                            &:after{
+                        position: relative;
+                        &:after{
                             content: '';
-                            position: absolute;
-                            left: 0;
-                            width: 80px;
-                            height: 80px;
-                            top: 0;
+                    width: 50px;
+                    height: 50px;
+                    position: absolute;
+                    left: -5px;
+                    top: -5px;
+                    background: #fff;
+                    border-radius: 30px;
                         }
-
+                    }
                 }
             }
             h4{
@@ -370,13 +372,12 @@ main {
                 margin-bottom: 18px;
                 &:after{
                     content: '';
-                    width: 50px;
-                    height: 50px;
+                    width: 20%;
+                    height: 2px;
                     position: absolute;
-                    left: -5px;
-                    top: -5px;
+                    left: 0;
+                    bottom: -5px;
                     background: #fff;
-                    border-radius: 30px;
                 }
             }
 
