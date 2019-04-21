@@ -80,11 +80,12 @@
 			<div class="col-sm-12 col-md-12">
 
 				<section class="col-sm-12 col-md-6 flex row reverse">
-					<header class="flex column wrap ">
-						<h4 class="bold f-white">teste</h4>
+					<header class="col-sm-12 col-md-6 flex column wrap">
+						<h4 class="bold f-white">teste</h4
+							>
 					</header>
 
-				<figure>
+				<figure col-sm-12 col-md-6 flex column wrapcol-sm-12 col-md-6 flex column wrapcol-sm-12 col-md-6 flex column wrap>
 					<img src="images/products/rosca-pg.jpg" alt="">
 				</figure>
 				</section>
