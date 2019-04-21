@@ -9,7 +9,7 @@ $(window).ready(function(){
 
 // Change div content - pour products
 
-$('#btnClick').on('click', function() {
+$('.tab-aside').click(function(){
     if ($('#1').css('display') != 'none') {
 
         $('#2').html($('#static').html()).show().siblings('div').hide();
