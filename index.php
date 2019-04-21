@@ -77,9 +77,9 @@
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
 		<div class="container-md">
-			<div class="col-sm-12 col-md-12 flex row reverse">
+			<div class="col-sm-12 col-md-12">
 
-				<section class="col-sm-12 col-md-6">
+				<section class="col-sm-12 col-md-6 flex row reverse">
 					<h4 class="bold f-white">teste</h4>
 				<figure>
 					<img src="images/products/rosca-pg.jpg" alt="">
