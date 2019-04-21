@@ -79,7 +79,7 @@
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
 			<div class="container-md outer-container-products">
-				<div class="col-sm-12 col-md-12 container-products">
+				<div class="col-sm-12 col-md-12 container-products row nowrap">
 					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
