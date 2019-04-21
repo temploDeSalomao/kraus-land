@@ -52,7 +52,7 @@
 		</section>
 		<div class="container-fluid about-enterprise col-sm-12">
 			<article class="col-sm-12 col-md-6 bg-yellow">
-				<h2 class="article-title f-white uppercase ">Conheça  <br/><b class="f-white">nossa história</b></h2>
+				<h3 class="article-title f-white uppercase ">Conheça  <br/><b class="f-white">nossa história</b></h3>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
 				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
@@ -72,8 +72,8 @@
 				<img src="images/logo/CE.png" alt="Certification">
 			</div>
 		</div>
-		<section class="cotnainer-industrial-line col-sm-12 col-md-12 flex center al-center">
-			h3.col-sm-12.col-md-12	
+		<section class="cotnainer-industrial-line col-sm-12 col-md-12 flex center al-center column reverse no wrao">
+			h3.uppercase.lighter{}
 		</section>
 	</main>
 	<?php include 'inc/footer.php'?>
