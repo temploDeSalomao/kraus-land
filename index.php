@@ -61,7 +61,7 @@
 			<div class="col-sm-12 col-md-6 article-background"></div>
 		</div>
 		<div class="container-fluid certification-divisor">
-			<div class="col-sm-12 col-md-6 certification bg-black uppercase">
+			<div class="col-sm-12 col-md-6 certification bg-black border uppercase">
 				certificações
 			</div>
 			<div class="col-sm-12 col-md-6 sponsorship bg-gray-bold">
