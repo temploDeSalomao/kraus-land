@@ -363,6 +363,7 @@ main {
                         border-radius: 60px;
                         position: relative;
 
+                    }
                         &:after {
                             content: '';
                             width: 50px;
@@ -373,7 +374,6 @@ main {
                             background: #fff;
                             border-radius: 30px;
                         }
-                    }
                 }
             }
 
