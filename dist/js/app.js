@@ -10,14 +10,15 @@ $(window).ready(function(){
 // Change div content - pour products
 
 $('.tab-aside').click(function(){
-	$('.tab-aside').each(function(){
+	$('.tab-aside').each(function(x){
 			if($(this).hasClass('active')){
 			$(this).removeClass('active');
+			x.stopPropagation();
 		}
 		else{
 			$(this).addClass('active');
 		}
-	}) 
+	});
 	$('.tabela').each(function(){
 		if($(this).hasClass('active')){
 			$(this).removeClass('active');
