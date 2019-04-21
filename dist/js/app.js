@@ -9,7 +9,7 @@ $(window).ready(function(){
 
 // Change div content - pour products
 
-$('.tab-aside').click(function(){
+$('.tab-aside').click(function(e){
 	$(this).each(function(){
 			if($(this).hasClass('active')){
 			$(this).removeClass('active');
@@ -26,6 +26,7 @@ $('.tab-aside').click(function(){
 			$(this).addClass('active');
 		}
 	})
+	e.stopPropagation();
 });
 
 });
