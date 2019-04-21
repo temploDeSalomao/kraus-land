@@ -117,7 +117,9 @@
 							</figcaption>
 						</figure>
 					</section>
-					<aside class="col-sm-12 col-md-6 bg-gray"></aside>
+					<aside class="col-sm-12 col-md-6 bg-gray">
+						
+					</aside>
 				</div>
 			</div>
 			
