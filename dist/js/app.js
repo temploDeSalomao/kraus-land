@@ -11,8 +11,8 @@ $(window).ready(function(){
 
 $('.tab-aside').click(function(x){
 	$('.tab-aside').each(function(){
-			if($(this).hasClass('active')){
-			$(this).removeClass('active');
+			if($('.tab-aside').hasClass('active')){
+			$('.tab-aside').removeClass('active');
 		}
 		else{
 			$(this).addClass('active');
