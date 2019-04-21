@@ -60,7 +60,7 @@
 			<div class="col-sm-12 col-md-6 article-background"></div>
 		</div>
 		<div class="container-fluid certification-divisor">
-			<div class="col-sm-12 col-md-6 certification bg-black border uppercase compressed">
+			<div class="col-sm-12 col-md-6 certification bg-black border uppercase compressed ">
 				certificações <b class="f-white">&nbsp;kraus muller:</b>
 			</div>
 			<div class="col-sm-12 col-md-6 sponsorship bg-gray-bold">
