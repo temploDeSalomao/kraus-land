@@ -76,6 +76,7 @@
 				<h3 class="uppercase f-white">prensa-cabos metálicos</h3>
 				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
 			</header>
+			
 		</section>
 	</main>
 	<?php include 'inc/footer.php'?>
