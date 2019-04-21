@@ -62,7 +62,7 @@
 		</div>
 		<div class="container-fluid certification-divisor">
 			<div class="col-sm-12 col-md-6 certification bg-black border uppercase">
-				certificações <b class="f-white">&nbsp;kraus muller</b>
+				certificações <b class="f-white">&nbsp;kraus muller:</b>
 			</div>
 			<div class="col-sm-12 col-md-6 sponsorship bg-gray-bold">
 				<img src="images/logo/falcao-bauer.png" alt="Falcao Bauer">
