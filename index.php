@@ -105,7 +105,7 @@
 									<img src="images/products/rosca-pg.jpg" alt="">
 									<img src="images/products/rosca-pg.jpg" alt="">
 								</div>
-								<a href="" class="btn">Solicitar orçamento</a>
+								<a href="" class="btn flex row wrap col-sm-12 ccol-md-12">Solicitar orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
