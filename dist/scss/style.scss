@@ -349,6 +349,7 @@ main {
                 display: flex;
                 justify-content: space-around;
                 align-items: center;
+                flex-flow: row wrap
                 li{
                     position: relative;
                     width: 35px;
