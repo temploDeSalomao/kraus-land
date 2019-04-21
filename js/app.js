@@ -1,1 +1,1 @@
-$(window).ready(function(){$(".btn_esconder").click(function(i){$(".main-bg").toggleClass("active"),$(this).val("Show"),i()}),$(".tab-aside").click(function(){"none"!=$(".tabela-1").css("display")?$(".tabela-2").html($(".content-aside").html()).show().siblings("div").hide():"none"!=$(".tabela-2").css("display")&&$(".tabela-1").show().siblings("div").hide()})});
+$(window).ready(function(){$(".btn_esconder").click(function(i){$(".main-bg").toggleClass("active"),$(this).val("Show"),i()}),$(".tab-aside").click(function(){})});
