@@ -10,12 +10,12 @@ $(window).ready(function(){
 // Change div content - pour products
 
 $('.tab-aside').click(function(){
-    if ($('#1').css('display') != 'none') {
+    if ($('.tabela-1').css('display') != 'none') {
 
-        $('#2').html($('#static').html()).show().siblings('div').hide();
-    } else if ($('#2').css('display') != 'none') {
+        $('.tabela-2').html($('.content-aside').html()).show().siblings('div').hide();
+    } else if ($('.tabela-2').css('display') != 'none') {
 
-        $('#1').show().siblings('div').hide();
+        $('.tabela-1').show().siblings('div').hide();
 
     }
 });
