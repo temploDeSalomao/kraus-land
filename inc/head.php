@@ -44,8 +44,6 @@
 		<meta name="msapplication-TileImage" content="ms-icon-144x144.png">
 		<link rel="manifest" href="manifest.json">
 		
-<!-- Libraries -->
-<link rel="stylesheet" href='js/lib/chartjs/Chart.min.css'>
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/fonts.css">
