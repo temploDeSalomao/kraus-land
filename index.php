@@ -128,9 +128,6 @@
 									teste
 								</div>
 								<div class="tabela">
-									<canvas id='first-canvas-chart'>
-										
-									</canvas>
 								</div>
 							</div>
 						</div>
