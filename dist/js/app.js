@@ -10,6 +10,8 @@ $(window).ready(function(){
 // Change div content - pour products
 
 $('.tab-aside').click(function(){
+	
+
 	$('.tab-aside').each(function(){
 			if($(this).hasClass('active')){
 			$(this).removeClass('active');
