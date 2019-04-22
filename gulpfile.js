@@ -33,7 +33,7 @@ const gulp = require('gulp'),
 
 		console.log('--------- Files have been copied !---------' + '\r\n');
 		done();
-		return merge(bootstrap,fontawesome,slickjs,jquery);
+		return merge(bootstrap,fontawesome,jquery);
 
 	});
 
