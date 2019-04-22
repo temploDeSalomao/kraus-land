@@ -16,7 +16,7 @@ const gulp = require('gulp'),
 
 	gulp.task('copy-files',function(done){
 		
-		let bootstrap = gulp.src('node_modules/bootstrap/dist/css/bootstrap-grid.min.css')
+		let bootstrap = gulp.src(['node_modules/bootstrap/dist/css/bootstrap-grid.min.css','node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map'],{base:'node_modules/bootstrap/dist/css/'})
 							.pipe(gulp.dest('css/lib/')),
 
 			fontawesome = gulp.src(['node_modules/font-awesome/fonts/**','node_modules/font-awesome/css/*.min.css'],{base:'node_modules/'})
