@@ -128,7 +128,7 @@
 									teste
 								</div>
 								<div class="tabela">
-									<canvas width="400" height="400" id='first-canvas-chart'>
+									<canvas id='first-canvas-chart'>
 										
 									</canvas>
 								</div>
