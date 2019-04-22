@@ -24,11 +24,20 @@ const gulp = require('gulp'),
 
 			// slickjs = gulp.src(['node_modules/slick-carousel/slick/*.min.js','node_modules/slick-carousel/slick/*-theme.css'],{base:'node_modules/slick-carousel'})
 			// 			.pipe(gulp.dest('dist/js/lib/')),
+<<<<<<< HEAD
 //			chatjs = gulp.src(['node_modules/chart.js/dist/Chart.min.js','node_modules/chart.js/dist/Chart.min.css'],{base:'node_modules/chart.js/dist/'})			
 //						.pipe(gulp.dest('js/lib/chartjs/'))
 
 			jquery = gulp.src('node_modules/jquery/dist/jquery.min.js')
 						.pipe(gulp.dest('dist/js/lib/jquery'));
+=======
+
+			jquery = gulp.src('node_modules/jquery/dist/jquery.min.js')
+						.pipe(gulp.dest('dist/js/lib/jquery')),
+
+			chatjs = gulp.src(['node_modules/chart.js/dist/Chart.min.js','node_modules/chart.js/dist/Chart.min.css'],{base:'node_modules/chart.js/dist/'})			
+						.pipe(gulp.dest('js/lib/chartjs/'));
+>>>>>>> 24e74aa89a31d0bdb251b341fa3697d24b80bb73
 
 		console.log('--------- Files have been copied !---------' + '\r\n');
 		done();
@@ -65,8 +74,12 @@ const gulp = require('gulp'),
 		);
 	})
 
+<<<<<<< HEAD
 	gulp.task('watch',function(x){
 		x();
+=======
+	gulp.task('watch',function(){
+>>>>>>> 24e74aa89a31d0bdb251b341fa3697d24b80bb73
 		return(
 			gulp.watch('dist/scss/**/*.scss',gulp.series('build-css')),
 			gulp.watch('dist/js/**/*.js',gulp.series('minify-js')),
