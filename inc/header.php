@@ -1,6 +1,6 @@
 <header>
 	<div class="container-fluid header-home">
-		<a href="" class="tel-header">
+		<a href="" class="tel-header comrpessed">
 			<i class="fa fa-phone f-yellow"></i>
 			11 4705.3636
 		</a>
@@ -9,13 +9,13 @@
 				<img src="dist/images/logo/logo-kraus-muller.png" alt="">
 			</a>
 			<ul class="flex row nowrap center menu-dk">
-				<li class="uppercase flex al-center f-white_g opaque ligther">
+				<li class="uppercase flex al-center f-white_g opaque ligther compressed">
 					<a href="">Home</a>
 				</li>
-				<li class="uppercase flex al-center f-white_g opaque ligther">
+				<li class="uppercase flex al-center f-white_g opaque ligther compressed">
 					<a href="">Prensa-Cabos</a>
 				</li>
-				<li class="uppercase flex al-center f-white_g opaque ligther">
+				<li class="uppercase flex al-center f-white_g opaque ligther compressed">
 					<a href="">Orçamento</a>
 				</li>
 			</ul>
