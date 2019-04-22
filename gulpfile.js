@@ -28,9 +28,9 @@ const gulp = require('gulp'),
 			jquery = gulp.src('node_modules/jquery/dist/jquery.min.js')
 						.pipe(gulp.dest('dist/js/lib/jquery')),
 
-			chatjs = gulp.src(['node_modules/chart.js/dist/Chart.min.js','node_modules/chart.js/dist/Chart.min.css'],{base:'node_modules/chart.js'})			
+			chatjs = gulp.src(['node_modules/chart.js/dist/Chart.min.js','node_modules/chart.js/dist/Chart.min.css'],{base:'node_modules/'})			
 						.pipe(gulp.dest('dist/js/lib/'));
-						
+
 		console.log('--------- Files have been copied !---------' + '\r\n');
 		done();
 		return merge(bootstrap,fontawesome,slickjs,jquery);
