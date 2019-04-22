@@ -128,7 +128,9 @@
 									teste
 								</div>
 								<div class="tabela">
-									testesssss
+									<canvas id='first-canvas-chart'>
+										
+									</canvas>
 								</div>
 							</div>
 						</div>
