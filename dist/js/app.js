@@ -9,15 +9,14 @@ $(window).ready(function(){
 
 // Change div content - pour products
 
-$('.tab-aside').click(function(x){
-	$('.tab-aside').each(function(){
+$('.tab-aside').click(function(){
 			if($(this).hasClass('active')){
 			$(this).removeClass('active');
 		}
 		else{
 			$(this).addClass('active');
 		}
-	})
+	
 	$('.tabela').each(function(){
 		if($(this).hasClass('active')){
 			$(this).removeClass('active');
@@ -27,6 +26,5 @@ $('.tab-aside').click(function(x){
 		}
 	})
 });
-	 x.stopPropagation();
 
 });
