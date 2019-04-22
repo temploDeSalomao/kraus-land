@@ -24,10 +24,5 @@ $(window).ready(function(){
 				$(this).addClass('active');
 			}
 		});
-});
-
-
-
-
-
+	});
 });
