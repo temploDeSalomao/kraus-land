@@ -33,10 +33,8 @@ $('.tab-aside').click(function(){
 
 
 // Chart
-
-let ctx =$("#first-canvas-chart"),
-    
-    myChart = new Chart(ctx, {
+var ctx = document.getElementById('first-canvas-chart');
+var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
         labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
@@ -72,5 +70,4 @@ let ctx =$("#first-canvas-chart"),
         }
     }
 });
-
 });
