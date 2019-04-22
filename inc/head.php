@@ -44,8 +44,7 @@
 		<meta name="msapplication-TileImage" content="ms-icon-144x144.png">
 		<link rel="manifest" href="manifest.json">
 		
-
-		<link rel="stylesheet" href="css/lib/bootstrap-grid.min.css">
+		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/fonts.css">
 		<link rel="stylesheet" href="css/reset.css">
@@ -54,5 +53,6 @@
 		<link rel="stylesheet" media="(max-width: 900px)" href="css/media.css">
 		
 		
+
 		
 </head>

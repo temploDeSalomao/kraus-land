@@ -1,10 +1,28 @@
 $(window).ready(function(){
+	$('.btn_esconder').click(function(x){
+		$('.main-bg').toggleClass('active');
+		$(this).val('Show');
+		x();
+	});
 
-$('.carousel-solutions').slick({
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 2000,
-});
+	// Change div content - pour products
+	$('.tab-aside').click(function(){
+		$('.tab-aside').each(function(){
+			if($(this).hasClass('active')){
+				$(this).removeClass('active');
+			}
+			else{
+				$(this).addClass('active');
+			}
+		});
 		
+		$('.tabela').each(function(){
+			if($(this).hasClass('active')){
+				$(this).removeClass('active');
+			}
+			else{
+				$(this).addClass('active');
+			}
+		});
+	});
 });

@@ -3,28 +3,65 @@
 	<div class="first-bg"></div>
 	<?php include 'inc/header.php'?>
 	<main>
-		<div class="container">
-			<section class="first-section col-sm-12">
-				<h3 class="section-title">
-				PRODUTOS DE QUALIDADE E <br> <span> ATENDIMENTO PERSONALIZADO </span>
-				</h3>
-				<p class="about-title">Entendemos a real necessidade de cada cliente, e apresentamos a melhor solução. Total atenção aos seus projetos especiais, com flexibilidade nas negociações. Solicite um orçamento agora mesmo!</p>
-			</section>
-		</div>
+		<section class="container-fluid container-md first-section flex row wrap ">
+			<header class="col-sm-12 col-md-12 pad-le_35">
+				<h1 class="uppercase f-white main-title compressed medium">Prensa-cabos metálicos</h1>
+			</header>
+			
+			<div class="col-sm-12 col-md-7 pad-le_352 pad-top_15 f-white_g compressed flex column wrap no-grow text-shadow">
+				<p class="main-subtitle" >A linha de prensa-cabos metálicos da Kraus-Muller foi desenvolvida ára proteger a sua instalação elétrica, evitando contato com a água, poeir e evitando perdas de energia com anéis de vedação e por ser metálica essa linha apresenta resistência mecânica superior aos presa-cabos de termoplástico. Para garantir a  vedação em suas instalações eĺétricas, conte com a linha Kraus-Muller.</p>
+				
+				<h3 class="medium uppercase text-shadow">Vantagens:</h3>
+				<ul class="container-vantagens flex column wrap al-start space-around no-decorate" >
+					<li class='box-ticked compressed flex row nowrap start al-start '>Protege os equipamentos contra possiveis riscos de curto-circuito;</li>
+					<li class='box-ticked compressed flex row nowrap start al-start '>Blindado contra açao eletromagnética;</li>
+					<li class='box-ticked compressed flex row nowrap start al-start '>Alto poder de vedação e travxamento para evitar a tensão do cabo e a tração por causa do peso do fio.</li>
+				</ul>
+				<ul class="container-certified flex row nowrap al-start start pad-le_1">
+					<li class="certified" >
+						<figure class="flex column reverse no-grow full-basis">
+							<img src="images/logo/rohs-compliant.png" alt="">
+							<figcaption class="flex center al-center">Conformidade</figcaption>
+						</figure>
+					</li>
+					<li class="certified">
+						<figure class="flex column reverse ">
+							<img class="flex al-center center full-basis " src="images/logo/CE.png" alt="">
+							<figcaption class="flex center al-center">Certificação</figcaption>
+						</figure>
+					</li>
+					<li class="certified">
+						<figure class="flex column reverse no-grow full-basis">
+							<img src="images/logo/rohs-compliant.png" alt="">
+							<figcaption class="flex center al-center">Reciclável</figcaption>
+						</figure>
+					</li>
+					<li class="certified">
+						<figure class="flex column reverse no-grow full-basis">
+							<img src="images/logo/rohs-compliant.png" alt="">
+							<figcaption class="flex center al-center">Sustentável</figcaption>
+						</figure>
+					</li>
+				</ul>
+				<a href="" class="btn-large uppercase f-white bg-green">Quero solicitar um orçamento</a>
+			</div>
+			<figure class="col-sm-12 col-md-5 flex center al-center no-padding header-image">
+				<img class="flex al-center" src="images/body/prensa-cabos.png" alt="">
+			</figure>
+		</section>
 		<div class="container-fluid about-enterprise col-sm-12">
-			<article class="col-sm-12 col-md-6 bg-gray">
-				<h1 class="article-title f-gray uppercase">Kraus-Muller</h1>
-				<h2 class="article-sub-title f-white uppercase ">Conheça a nossa história</h2>
-				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
-				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
-				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a Kraus - Muller Indústria e Comércio, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
+			<article class="col-sm-12 col-md-6 bg-yellow">
+				<h3 class="article-title f-white uppercase ">Conheça  <br/><b class="f-white">nossa história</b></h3>
+				<p>Com objetivos alinhados à sua estratégia de atuação e a processos inovadores, a <b>Kraus - Muller Indústria e Comércio Ltda</b>, vem, desde sua fundação em 1999, conquistando o mercado com a qualidade e funcionalidade de seus produtos, aliados à excelência de seu atendimento ao cliente.</p>
+				<p>Com aprimorada tecnologia, a empresa apresenta uma linha exclusiva de produtos para aplicação nos segmentos de instalções elétricas, máquinas insdustriais, entre outros que exijam alta confiabilidade e aderência aos mais rígidos padrões de qualidade.</p>
+				<p>A <b>Kraus-Muller</b> é uma empresa que atende com base na norma ISO9001 desde 2010, aplicando a metodologia da rastreabilidade em todas as etapas de seu processo de insdutrialização. Nosso alicerces de bons princípios, segurança, confiança, solidez, desenvolvimento técnologo e respeito elevam o padrão da Kraus-Muller. Estimulamos nossos funcionários a adquirir mais conhecimentos com oportunidades para crescerem em seus campos de especialização.</p>
 			</article>
 			<!-- When i try to use img here dont have the same effect that i want -->
 			<div class="col-sm-12 col-md-6 article-background"></div>
 		</div>
 		<div class="container-fluid certification-divisor">
-			<div class="col-sm-12 col-md-6 certification bg-gray-light uppercase">
-				certificações
+			<div class="col-sm-12 col-md-6 certification bg-black border uppercase compressed ">
+				certificações <b class="f-white">&nbsp;kraus muller:</b>
 			</div>
 			<div class="col-sm-12 col-md-6 sponsorship bg-gray-bold">
 				<img src="images/logo/falcao-bauer.png" alt="Falcao Bauer">
@@ -34,201 +71,238 @@
 				<img src="images/logo/CE.png" alt="Certification">
 			</div>
 		</div>
-		<div class="container-fluid no-padding container-men-in-pole">
-			<div class="men-in-pole col-sm-12 col-md-8 "></div>
-			<div class="col-sm-12 col-md-12 container-form-contact  bg-gray">
-				<h3 class="uppercase form-title">Solicite um <br> <span class="f-white">Orçamento</span></h3>
-			</div>
-		</div>
-		<div class="container-fluid container-shield" >
-			<h2 class="f-gray uppercase flex row wrap al-center center shield-title ">Blindagem de rede <b class="f-white">&nbsp;antifurto</b></h2>
-			
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase ">Lacre de <b class="f-white">Disjuntor</b></h3>
-					<p class="shield-service-content">
-						O Lacre de Disjuntor da Kraus-Muller foi desenvolvido para atender a necessidade das concessionárias de energia.
-						<br><br><br>
-						Projetado para impedir que o usuário de energia que teve seu serviço cortado tenha acesso ao acionamento do disjuntor.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase ">PRENSA-<b class="f-white">cabos 10 dan</b></h3>
-					<p class="shield-service-content">
-						A linha de prensa-cabos da Kraus-Muller é pensada para proteger a sua instalação elétrica, evitando contato com a água, poeira e evitando perdas de energia com anéis de vedação e resistência mecânica.
-						<br><br><br>
-						Para te ajudar em sua obra, conte com a Linha Kraus-Muller!
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase "> PROTETOR DE <b class="f-white">EMENDA</b></h3>
-					<p class="shield-service-content">
-						O protetor de emenda da Kraus-Muller foi desenvolvido para proteger um ponto muito exposto e suscetível a fraudes: a derivação de ramais para clientes.
-						<br><br><br>
-						Com ele, você evitará o furto de energia, reduzindo perdas nas concessionárias de energia elétricas de todo o Brasil.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase "> PROTETOR DE  <b class="f-white">CABOS</b></h3>
-					<p class="shield-service-content">
-						O Lacre de Disjuntor da Kraus-Muller foi O Protetor de Cabos BT da Kraus-Muller foi criado para proteger esses tipos de cabos de vandalismo, minimizando perdas/furtos de energia.
-						<br><br><br>
-						A instalação do protetor é simples, dispensando o uso de colas.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase "> ELETRODUTO DE <b class="f-white">pvc</b></h3>
-					<p class="shield-service-content">
-						Os Eletrodutos de PVC Rígido da linha Kraus-Muller são produzidos a partir do processo de extrusão.
-						<br><br><br>
-						Nosso produto atende às rígidas especificações da Norma NBR 15465 e possui excelentes características de resistência mecânica, química e facilidade na hora da montagem.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase "> LUVA PARA <b class="f-white">ELETRODUTO</b></h3>
-					<p class="shield-service-content">
-						Luvas da linha da Kraus-Muller são ideais para a união de eletrodutos.
-						<br><br><br>
-						Confeccionadas em diferentes dimensões para atender todo o mercado nacional.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase "> BLINDAGEM NA<b class="f-white">ROLDANA</b></h3>
-					<p class="shield-service-content">
-						A Kraus-Muller desenvolveu a blindagem na roldana envolvendo todo o conjunto considerado o ponto frágil da linha, evitando assim, o furto de energia e reduzindo perdas energéticas.
-						<br><br><br>
-						É destinado para linhas de distribuição de energia e pode ser usado em todas as regiões do Brasil.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-			<div class="col-sm-12 col-md-3 box-shield al-center flex center no-padding">
-				<article class="content-shield">
-					<h3 class="shield-service-title f-white uppercase "> CURVA <b class="f-white">box</b></h3>
-					<p class="shield-service-content">
-						O conector curvo com rosca permite a mudança no sentido do tubo rígido de PVC, formando um ângulo de 90 graus e garantindo uma fixação perfeita no corpo do equipamento.
-						<br><br><br>
-						Essa combinação citada acima amplia a segurança contra furtos ou violação do cabo, além de aumentar a qualidade da instalação, evitando possíveis fraudes.
-					</p>
-					<a class="about-plan flex end" href="#"><i class="fa fa-long-arrow-right"></i>Saiba Mais</a>
-				</article>
-			</div>
-		</div>
-		<div class="customized-solutions-container flex column wrap container-fluid no-padding">
-			<h2 class="customized-solutions-title uppercase flex column wrap center al-center f-yellow">
-			soluções <b class="f-white">customizadas</b>
-			</h2>
-			<div class="carousel-full carousel-solutions col-sm-12 col-md-12">
-				<article class="col-sm-12 col-md-4 carousel-item flex column wrap center al-center">
-					<figure>
-						<img src="images/products/00.png" alt="Prensa-cabos Multivias">
-					</figure>
-					<h3 class="uppercase flex column wrap center al-center f-white carousel-title ">
-					Prensa-cabos<b class="f-yellow">Multivias</b>
-					</h3>
-					<p class="f-white opaque carousel-content"> Para facilitar o trabalho, o prensa-cabo multivias permite a passagem de vários diâmetros de cabos em um único orifício. Para isso, basta dimensionar a rosca e as características dos cabos.</p>
-				</article>
-				<article class="col-sm-12 col-md-4 carousel-item flex column wrap center al-center">
-					<figure>
-						<img src="images/products/01.png" alt="Prensa-cabos Multivias">
-					</figure>
-					<h3 class="uppercase flex column wrap center al-center f-white carousel-title ">
-					FURAÇÃO<b class="f-yellow">PERSONALIZADA</b>
-					</h3>
-					<p class="f-white opaque carousel-content">  Você quer economizar tempo e dinheiro? Conte com a Kraus-Muller para isso. Pensando em otimizar o seu projeto, nós oferecemos caixas de passagem com furação personalizada.</p>
-				</article>
-				<article class="col-sm-12 col-md-4 carousel-item flex column wrap center al-center">
-					<figure>
-						<img src="images/products/02.png" alt="Prensa-cabos Multivias">
-					</figure>
-					<h3 class="uppercase flex column wrap center al-center f-white carousel-title ">
-					CAIXAS COM <b class="f-yellow"> DOBRADIÇAS </b>
-					</h3>
-					<p class="f-white opaque carousel-content">As caixas de passagem com dobradiças da Linha Kraus-Muller são ideais para o seu projeto elétrico. Por conta de seu design, se adequa bem em diferentes tipos de posições e usos.</p>
-				</article>
-			</div>
-		</div>
-		<div class="download-our-catalog-container container-fluid no-padding">
-			<div class="container flex">
-				<div class="col-sm-12 col-md-8">
-					<span class="uppercase f-white flex column wrap download-our-catalog-title">Faça download do <b class="f-black">nosso catálogo</b></span>
-					<p class="f-white download-our-catalog-subtitle">
-						Faça o download e confira o catálogo completo da inovadora Linha Kraus-Muller.
-					</p>
-					<form action="#">
-						<div class="container-form-download-our-catalog flex center al-center space-between">
-							<input type="text" placeholder="Nome*" required>
-							<input type="email" placeholder="Email*" required>
+
+<!-- linha industrial -->
+		<article class="container-industrial-line">
+			<header class=" col-sm-12 col-md-12 flex center al-center column reverse no wrap">
+				<h2 class="uppercase f-white compressed">prensa-cabos metálicos</h2>
+				<h4 class="lighter f-yellow uppercase compressed">linha industrial</h4>
+			</header>
+			<div class="container-md outer-container-products">
+				<div class="col-sm-12 col-md-12 container-products row nowrap">
+					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
+						<header class="col-sm-12 col-md-6 flex column wrap">
+							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
+							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<p class="f-white">Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
+							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
+							<ul class="flex column no wrap f-white no-decorate">
+								<li class="f-white"><b>Material:</b> latão niquelado. PA 5 e borracha injetável;</li>
+								<li class="f-white"><b>Norma:</b> DIN 46320 - EN 50282;</li>
+								<li class="f-white"><b>Proteção:</b> Ip 68;</li>
+								<li class="f-white"><b>Temperatura de Operação:</b> -40°C à 100°C e 150°C para curto período de tempo;</li>
+								<li class="f-white">O Prensa Cabo Metálico Rosca PG é indicado para furo roscado ou passante.</li>
+							</ul>
+						</header>
+						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
+							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
+							<figcaption class="flex column wrap">
+								<ul class="product-images flex space-around no-padding no-decorate">
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+								</ul>
+								<a href="" class="btn-small bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							</figcaption>
+						</figure>
+					</section>
+					<aside class="col-sm-12 col-md-6 bg-gray">
+						<div class="outer-aside-content flex column wrap">
+							<div class="title-aside flex row nowrap">
+								<span class="uppercase flex al-center center active tab-aside" data-slide="1"> Especificações Técnicas</span>
+								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
+							</div>
+							<div class="content-aside">
+								<div class="tabela active">
+									teste
+								</div>
+								<div class="tabela">
+									desenho
+								</div>
+							</div>
 						</div>
-						<input class="flex end al-end t-al-end btn-yellow uppercase f-yellow" type="submit" value="enviar">
-					</form>
+					</aside>
 				</div>
-				<div class="col-sm-12 col-md-4 woman-download-image flex center">
-					<img src="images/body/00.png" alt="Atendimento Kraus Muller">
+				<div class="col-sm-12 col-md-12 container-products row nowrap">
+					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
+						<header class="col-sm-12 col-md-6 flex column wrap">
+							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
+							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<p class="f-white">Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
+							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
+							<ul class="flex column no wrap f-white no-decorate">
+								<li class="f-white"><b>Material:</b> latão niquelado. PA 5 e borracha injetável;</li>
+								<li class="f-white"><b>Norma:</b> DIN 46320 - EN 50282;</li>
+								<li class="f-white"><b>Proteção:</b> Ip 68;</li>
+								<li class="f-white"><b>Temperatura de Operação:</b> -40°C à 100°C e 150°C para curto período de tempo;</li>
+								<li class="f-white">O Prensa Cabo Metálico Rosca PG é indicado para furo roscado ou passante.</li>
+							</ul>
+						</header>
+						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
+							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
+							<figcaption class="flex column wrap">
+								<ul class="product-images flex space-around no-padding no-decorate">
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+								</ul>
+								<a href="" class="btn-small bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							</figcaption>
+						</figure>
+					</section>
+					<aside class="col-sm-12 col-md-6 bg-gray">
+						<div class="outer-aside-content flex column wrap">
+							<div class="title-aside flex row nowrap">
+								<span class="uppercase flex al-center center active tab-aside" data-slide="1"> Especificações Técnicas</span>
+								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
+							</div>
+							<div class="content-aside">
+								<div class="tabela active">
+									teste
+								</div>
+								<div class="tabela">
+									testesssss
+								</div>
+							</div>
+						</div>
+					</aside>
+				</div>
+				<div class="col-sm-12 col-md-12 container-products row nowrap">
+					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
+						<header class="col-sm-12 col-md-6 flex column wrap">
+							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
+							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<p class="f-white">Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
+							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
+							<ul class="flex column no wrap f-white no-decorate">
+								<li class="f-white"><b>Material:</b> latão niquelado. PA 5 e borracha injetável;</li>
+								<li class="f-white"><b>Norma:</b> DIN 46320 - EN 50282;</li>
+								<li class="f-white"><b>Proteção:</b> Ip 68;</li>
+								<li class="f-white"><b>Temperatura de Operação:</b> -40°C à 100°C e 150°C para curto período de tempo;</li>
+								<li class="f-white">O Prensa Cabo Metálico Rosca PG é indicado para furo roscado ou passante.</li>
+							</ul>
+						</header>
+						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
+							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
+							<figcaption class="flex column wrap">
+								<ul class="product-images flex space-around no-padding no-decorate">
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+								</ul>
+								<a href="" class="btn-small bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							</figcaption>
+						</figure>
+					</section>
+					<aside class="col-sm-12 col-md-6 bg-gray">
+						<div class="outer-aside-content flex column wrap">
+							<div class="title-aside flex row nowrap">
+								<span class="uppercase flex al-center center active tab-aside" data-slide="1"> Especificações Técnicas</span>
+								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
+							</div>
+							<div class="content-aside">
+								<div class="tabela active">
+									teste
+								</div>
+								<div class="tabela">
+									testesssss
+								</div>
+							</div>
+						</div>
+					</aside>
+				</div>
+				<div class="col-sm-12 col-md-12 container-products row nowrap">
+					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
+						<header class="col-sm-12 col-md-6 flex column wrap">
+							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
+							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<p class="f-white">Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
+							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
+							<ul class="flex column no wrap f-white no-decorate">
+								<li class="f-white"><b>Material:</b> latão niquelado. PA 5 e borracha injetável;</li>
+								<li class="f-white"><b>Norma:</b> DIN 46320 - EN 50282;</li>
+								<li class="f-white"><b>Proteção:</b> Ip 68;</li>
+								<li class="f-white"><b>Temperatura de Operação:</b> -40°C à 100°C e 150°C para curto período de tempo;</li>
+								<li class="f-white">O Prensa Cabo Metálico Rosca PG é indicado para furo roscado ou passante.</li>
+							</ul>
+						</header>
+						<figure class="col-sm-12 col-md-6 flex column wrap start product-pic no-padding">
+							<img src="images/products/rosca-pg.jpg" alt="Rosca Pg">
+							<figcaption class="flex column wrap">
+								<ul class="product-images flex space-around no-padding no-decorate">
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+									<li class="flex al-center center">
+										<img src="images/products/rosca-pg.jpg" alt="">
+									</li>
+								</ul>
+								<a href="" class="btn-small bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							</figcaption>
+						</figure>
+					</section>
+					<aside class="col-sm-12 col-md-6 bg-gray">
+						<div class="outer-aside-content flex column wrap">
+							<div class="title-aside flex row nowrap">
+								<span class="uppercase flex al-center center active tab-aside" data-slide="1"> Especificações Técnicas</span>
+								<span class="uppercase flex al-center center tab-aside" data-slide="2"> Desenho Técnico</span>
+							</div>
+							<div class="content-aside">
+								<div class="tabela active">
+									teste
+								</div>
+								<div class="tabela">
+									testesssss
+								</div>
+							</div>
+						</div>
+					</aside>
 				</div>
 			</div>
-		</div>
-		<div class="container-shade container-nosso-blog container-fluid no-padding" >
-			<h2 class="has-shade-title flex column wrap center  uppercase f-gray lighter" data-content="Nosso Blog">Ultimas do <b class="f-white">nosso blog</b>	</h2>
-			<div class="flex row nowrap no-margin">
-				<article class="col-sm-12 col-md-4 flex column reverse wrap center al-center blog-item">
-					<div class="blog-content">
-						<h3 class="blog-title lighter">Exigências do corpo de bombeiro para indústrias</h3>
-						<span class="about-post-blog flex "> <i class="fa fa-calendar f-yellow"></i>mar, 29, 2019 <i class="fa fa-tag f-yellow"></i>Caixas de Passagem <i class="fa fa-user f-yellow"></i>Marco Lima</span>
-						<p class="content-post-blog f-white opaque lighter">Existe bastante burocracia por trás do funcionamento de uma indústria. Afinal, para garantir um ambiente seguro, há diversas regras ...</p>
-						<a href="#" class="btn-yellow border-yellow f-yellow flex end al-center"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-						Saiba Mais</a>
-					</div>
-					<figure>
-						<img src="images/blog/00.jpg" alt="Exigencias do corpo de bombeiro para industrias">
-					</figure>
-				</article>
-				<article class="col-sm-12 col-md-4 flex column reverse wrap center al-center blog-item">
-					<div class="blog-content">
-						<h3 class="blog-title lighter">Exigências do corpo de bombeiro para indústrias</h3>
-						<span class="about-post-blog flex "> <i class="fa fa-calendar f-yellow"></i>mar, 29, 2019 <i class="fa fa-tag f-yellow"></i>Caixas de Passagem <i class="fa fa-user f-yellow"></i>Marco Lima</span>
-						<p class="content-post-blog f-white opaque lighter">Existe bastante burocracia por trás do funcionamento de uma indústria. Afinal, para garantir um ambiente seguro, há diversas regras ...</p>
-						<a href="#" class="btn-yellow border-yellow f-yellow flex end al-center"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-						Saiba Mais</a>
-					</div>
-					<figure>
-						<img src="images/blog/00.jpg" alt="Exigencias do corpo de bombeiro para industrias">
-					</figure>
-				</article>
-				<article class="col-sm-12 col-md-4 flex column reverse wrap center al-center blog-item">
-					<div class="blog-content">
-						<h3 class="blog-title lighter">Exigências do corpo de bombeiro para indústrias</h3>
-						<span class="about-post-blog flex "> <i class="fa fa-calendar f-yellow"></i>mar, 29, 2019 <i class="fa fa-tag f-yellow"></i>Caixas de Passagem <i class="fa fa-user f-yellow"></i>Marco Lima</span>
-						<p class="content-post-blog f-white opaque lighter">Existe bastante burocracia por trás do funcionamento de uma indústria. Afinal, para garantir um ambiente seguro, há diversas regras ...</p>
-						<a href="#" class="btn-yellow border-yellow f-yellow flex end al-center"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-						Saiba Mais</a>
-					</div>
-					<figure>
-						<img src="images/blog/00.jpg" alt="Exigencias do corpo de bombeiro para industrias">
-					</figure>
-				</article>
-		
-	</div>
-</div>
-</main>
+			
+		</article>
+	</main>
+	<?php include 'inc/footer.php'?>
 </body>
 </html>

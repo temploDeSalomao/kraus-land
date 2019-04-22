@@ -5,19 +5,23 @@
 			11 4705.3636
 		</a>
 		<nav class="main-nav">
-			<a class="logo-header" href="./"><img src="dist/images/logo/logo-kraus-muller.png" alt=""></a>
-			<ul><a href=""></a>
-				<li><a href="">Home</a></li>
-				<li><a href="">Produtos</a></li>
-				<li><a href="">Empresa</a></li>
-				<li><a href="">Seja nosso distribuidor</a></li>
-				<li><a href="">Localização</a></li>
+			<a class="logo-header" href="./">
+				<img src="dist/images/logo/logo-kraus-muller.png" alt="">
+			</a>
+			<ul class="flex row nowrap center menu-dk">
+				<li class="uppercase flex al-center f-white_g opaque ligther">
+					<a href="">Home</a>
+				</li>
+				<li class="uppercase flex al-center f-white_g opaque ligther">
+					<a href="">Prensa-Cabos</a>
+				</li>
+				<li class="uppercase flex al-center f-white_g opaque ligther">
+					<a href="">Orçamento</a>
+				</li>
 			</ul>
 		</nav>
-		<ul class="change-language">
-			<li class="language-option"><img src="dist/images/flags/flag-brazil.png" alt=""></li>
-			<li class="language-option"><img src="dist/images/flags/flag-USA.png" alt=""></li>
-			<li class="language-option"><img src="dist/images/flags/flag-spain.png" alt=""></li>
+		<ul class="sociais-container">
+			<li class="flex al-end end"><a class="f-black" href="#"><i class="fa fa-facebook"></i></a></li>
 		</ul>
 	</div>
 </header>

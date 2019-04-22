@@ -22,16 +22,17 @@ const gulp = require('gulp'),
 			fontawesome = gulp.src(['node_modules/font-awesome/fonts/**','node_modules/font-awesome/css/*.min.css'],{base:'node_modules/'})
 							.pipe(gulp.dest('fonts/')),
 
-			slickjs = gulp.src(['node_modules/slick-carousel/slick/*.min.js','node_modules/slick-carousel/slick/*-theme.css'],{base:'node_modules/slick-carousel'})
-						.pipe(gulp.dest('dist/js/lib/')),
+			// slickjs = gulp.src(['node_modules/slick-carousel/slick/*.min.js','node_modules/slick-carousel/slick/*-theme.css'],{base:'node_modules/slick-carousel'})
+			// 			.pipe(gulp.dest('dist/js/lib/')),
+//			chatjs = gulp.src(['node_modules/chart.js/dist/Chart.min.js','node_modules/chart.js/dist/Chart.min.css'],{base:'node_modules/chart.js/dist/'})			
+//						.pipe(gulp.dest('js/lib/chartjs/'))
 
 			jquery = gulp.src('node_modules/jquery/dist/jquery.min.js')
-						.pipe(gulp.dest('dist/js/lib/jquery'));			
-
+						.pipe(gulp.dest('dist/js/lib/jquery'));
 
 		console.log('--------- Files have been copied !---------' + '\r\n');
 		done();
-		return merge(bootstrap,fontawesome,slickjs,jquery);
+		return merge(bootstrap,fontawesome,jquery);
 
 	});
 
@@ -64,7 +65,8 @@ const gulp = require('gulp'),
 		);
 	})
 
-	gulp.task('watch',function(){
+	gulp.task('watch',function(x){
+		x();
 		return(
 			gulp.watch('dist/scss/**/*.scss',gulp.series('build-css')),
 			gulp.watch('dist/js/**/*.js',gulp.series('minify-js')),

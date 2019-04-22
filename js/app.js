@@ -1,1 +1,1 @@
-$(window).ready(function(){$(".carousel-solutions").slick({slidesToShow:3,slidesToScroll:1,autoplay:!0,autoplaySpeed:2e3})});
+$(window).ready(function(){$(".btn_esconder").click(function(a){$(".main-bg").toggleClass("active"),$(this).val("Show"),a()}),$(".tab-aside").click(function(){$(".tab-aside").each(function(){$(this).hasClass("active")?$(this).removeClass("active"):$(this).addClass("active")}),$(".tabela").each(function(){$(this).hasClass("active")?$(this).removeClass("active"):$(this).addClass("active")})})});
