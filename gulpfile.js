@@ -29,7 +29,7 @@ const gulp = require('gulp'),
 						.pipe(gulp.dest('dist/js/lib/jquery')),
 
 			chatjs = gulp.src(['node_modules/chart.js/dist/Chart.min.js','node_modules/chart.js/dist/Chart.min.css'],{base:'node_modules/chart.js/dist/'})			
-						.pipe(gulp.dest('dist/js/lib/chartjs/'));
+						.pipe(gulp.dest('js/lib/chartjs/'));
 
 		console.log('--------- Files have been copied !---------' + '\r\n');
 		done();
