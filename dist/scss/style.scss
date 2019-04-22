@@ -6,30 +6,6 @@ body {
     background: #000;
     overflow-x: hidden;
 }
-
-.btn_esconder {
-    background: #fff;
-    border: 1px solid #333;
-    border-radius: 25px;
-    color: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    bottom: 20px;
-    right: 40px;
-    width: 50px;
-    height: 50px;
-    cursor: pointer;
-    transition: all .3s ease-in-out;
-
-    &:hover {
-        background: #333;
-        border-color: #fff;
-        color: #fff;
-    }
-}
-
 .main-bg.active {
     background: url("../images/landing.jpg") no-repeat;
     width: 100vw;
