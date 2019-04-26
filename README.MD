@@ -8,5 +8,5 @@
 
 3 - Open the folder and run 'npm i';
 
-4 - Go to your browser and put 'localhost/kraus-muller'.
+4 - Go to your browser and put 'localhost/<your-directory>'.
 
