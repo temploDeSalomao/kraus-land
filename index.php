@@ -63,7 +63,7 @@
 					<section class="col-sm-12 col-md-6 flex row reverse end box-products">
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-yellow uppercase underline-white compressed">rosca pg</h4>
-							<p class="f-white">O Prensa Cabos Metálicos para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
+							<p class="f-white">O Prensa Cabos Metálicos PG para ambientes com baixa vibração, por ter a profundidade dos fios de rosca rasos</p>
 							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
 							<p class="f-white">Esse modelo foi criado na Alemanha e seu nome é a abreviação de Stahl-Panzer-Rohr-Gewind. Dessa forma, seus tamanhos são nomeados pelo prefixo PG. A linha metálica apresenta resistência mecânica superior aos prensa cabos de plásticos.</p>
 							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
@@ -106,12 +106,12 @@
 								<div class="tabela active">
 									<div class="container-html">
 										<?php
-											include('tabelas/Prensa-Cabo Metálico-PG.htm')
+											include('tabelas/Prensa-Cabo-Metalico-PG.html')
 										?>
 									</div>
 								</div>
-								<div class="tabela">
-									
+								<div class="tabela draw">
+									<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 								</div>
 							</div>
 						</div>
@@ -119,23 +119,22 @@
 					<aside class="hidden-md aside-tabelas-mobile">
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								especificações técnicas
-								<i class="btn-inside-btn"></i>
+							especificações técnicas
+							<i class="btn-inside-btn"></i>
 							</button>
-								<div class="content-tabela-mobile active">
-									<?php
-											include('tabelas/Prensa-Cabo Metálico-NPT.htm')
-										?>
-								</div>
+							<div class="content-tabela-mobile active">
+								<?php
+										include('tabelas/Prensa-Cabo-Metalico-PG.html')
+								?>
+							</div>
 						</div>
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								desenho técnico
-								<i class="btn-inside-btn"></i>
+							desenho técnico
+							<i class="btn-inside-btn"></i>
 							</button>
-							<div class="content-tabela-mobile">
-								
-
+							<div class="content-tabela-mobile draw">
+								<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 							</div>
 						</div>
 					</aside>
@@ -145,7 +144,7 @@
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-yellow uppercase underline-white compressed">rosca Npt</h4>
 							<p class="f-white">O Prensa Cabo Rosca NPT é indicado para aplicação de estanqueidade e a sua utilização não depende do uso de porca para fixação, funcionando na base do encaixe entre o prensa cabo e o furo da caixa ou equipamento.</p>
-							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca NPT</span>
 							<p class="f-white">Esse modelo (cujo a abreviação vem de National Pipe Thread) é uma rosca cônica de padrão americano e descrito em polegadas. Um exemplo de seu uso é a estanqueidade na válvula do gás de cozinha.</p>
 							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
 							<ul class="flex column no wrap f-white no-decorate">
@@ -173,7 +172,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 col-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
@@ -187,11 +186,12 @@
 								<div class="tabela active">
 									<div class="container-html">
 										<?php
-											include('tabelas/Prensa-Cabo Metálico-NPT.html')
+											include('tabelas/Prensa-Cabo-Metalico-NPT.html')
 										?>
 									</div>
 								</div>
-								<div class="tabela">
+								<div class="tabela draw">
+									<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 								</div>
 							</div>
 						</div>
@@ -199,20 +199,20 @@
 					<aside class="hidden-md aside-tabelas-mobile">
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								especificações técnicas
-								<i class="btn-inside-btn"></i>
+							especificações técnicas
+							<i class="btn-inside-btn"></i>
 							</button>
-								<div class="content-tabela-mobile active">
-									<?php  include('tabelas/Prensa-Cabo Metálico-NPT.html') ?>
-								</div>
+							<div class="content-tabela-mobile active">
+								<?php  include('tabelas/Prensa-Cabo-Metalico-NPT.html') ?>
+							</div>
 						</div>
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								desenho técnico
-								<i class="btn-inside-btn"></i>
+							desenho técnico
+							<i class="btn-inside-btn"></i>
 							</button>
-							<div class="content-tabela-mobile">
-
+							<div class="content-tabela-mobile draw">
+								<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 							</div>
 						</div>
 					</aside>
@@ -222,10 +222,9 @@
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-yellow uppercase underline-white compressed">Rosca BSP</h4>
 							<p class="f-white">O Prensa Cabo Rosca BSP é indicado para conexões mais robustas devido a profundidade dos fios utilizados, permitindo maior segurança em casos de vibração ou pressão.</p>
-							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca BSP</span>
 							<p class="f-white">Esse modelo de rosca (conhecido como British Standard Pipe ou Whitworth Gás) tem origem inglesa e apresenta um formato paralelo que resiste melhor a pressão.
-
-Elas possuem um diâmetro constante entre os fios de rosca e podemos encontrar esta medida representada pela letra G em alguns catálogos.</p>
+							Elas possuem um diâmetro constante entre os fios de rosca e podemos encontrar esta medida representada pela letra G em alguns catálogos.</p>
 							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
 							<ul class="flex column no wrap f-white no-decorate">
 								<li class="f-white"><b>Material:</b> Termoplástico;</li>
@@ -266,11 +265,12 @@ Elas possuem um diâmetro constante entre os fios de rosca e podemos encontrar e
 								<div class="tabela active">
 									<div class="container-html">
 										<?php
-											include('tabelas/Prensa-Cabo Metálico-BSP.html')
+											include('tabelas/Prensa-Cabo-Metalico-BSP.html')
 										?>
 									</div>
 								</div>
-								<div class="tabela">
+								<div class="tabela draw">
+									<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 								</div>
 							</div>
 						</div>
@@ -278,21 +278,20 @@ Elas possuem um diâmetro constante entre os fios de rosca e podemos encontrar e
 					<aside class="hidden-md aside-tabelas-mobile">
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								especificações técnicas
-								<i class="btn-inside-btn"></i>
+							especificações técnicas
+							<i class="btn-inside-btn"></i>
 							</button>
-								<div class="content-tabela-mobile active">
-									<?php  include('tabelas/Prensa-Cabo Metálico-BSP.html') ?>
-								</div>
+							<div class="content-tabela-mobile active">
+								<?php  include('tabelas/Prensa-Cabo-Metalico-BSP.html') ?>
+							</div>
 						</div>
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								desenho técnico
-								<i class="btn-inside-btn"></i>
+							desenho técnico
+							<i class="btn-inside-btn"></i>
 							</button>
-							<div class="content-tabela-mobile">
-								<img src="images/" alt="teste">
-
+							<div class="content-tabela-mobile draw">
+								<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 							</div>
 						</div>
 					</aside>
@@ -302,10 +301,9 @@ Elas possuem um diâmetro constante entre os fios de rosca e podemos encontrar e
 						<header class="col-sm-12 col-md-6 flex column wrap">
 							<h4 class="bold f-yellow uppercase underline-white compressed">Rosca Métrica</h4>
 							<p class="f-white">O Prensa Cabo Rosca Métrica ou ISO Métrica é indicado para conexões mais robustas por causa da profundidade dos fios utilizados, permitindo maior segurança em casos de vibração ou pressão.</p>
-							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca PG</span>
+							<span class="about-product-subtitle f-yellow compressed">Modelo Prensa Cabo Metálico Rosca Métrica</span>
 							<p class="f-white">Esse modelo de rosca é paralelo e tem este nome por causa de seu diâmetro externo real. No caso dos prensa cabos, se trata do diâmetro C. Confira na tabela abaixo.
-
-A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo de rosca: grossa, multa ou fina. No caso da Linha Kraus-Muller, elas são finas. Isso significa que o passo da rosca é de 1,5mm.</p>
+							A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo de rosca: grossa, multa ou fina. No caso da Linha Kraus-Muller, elas são finas. Isso significa que o passo da rosca é de 1,5mm.</p>
 							<span class="about-product-subtitle f-yellow compressed">Informações Gerais:</span>
 							<ul class="flex column no wrap f-white no-decorate">
 								<li class="f-white"><b>Material:</b> latão niquelado. PA 5 e borracha injetável;</li>
@@ -346,11 +344,12 @@ A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo
 								<div class="tabela active">
 									<div class="container-html">
 										<?php
-											include('tabelas/Prensa-Cabo Metálico-Metrica.html')
+											include('tabelas/Prensa-Cabo-Metalico-Metrica.html')
 										?>
 									</div>
 								</div>
-								<div class="tabela">
+								<div class="tabela draw">
+									<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 								</div>
 							</div>
 						</div>
@@ -358,23 +357,22 @@ A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo
 					<aside class="hidden-md aside-tabelas-mobile">
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								especificações técnicas
-								<i class="btn-inside-btn"></i>
+							especificações técnicas
+							<i class="btn-inside-btn"></i>
 							</button>
-								<div class="content-tabela-mobile active">
-									<?php
-											include('tabelas/Prensa-Cabo Metálico-Metrica.html')
-										?>
-								</div>
+							<div class="content-tabela-mobile active">
+								<?php
+										include('tabelas/Prensa-Cabo-Metalico-Metrica.html')
+								?>
+							</div>
 						</div>
 						<div class="outer-content-tabela-mobile">
 							<button class="open-table flex row nowrap center al-center bg-yellow f-black bolder no-border uppercase">
-								desenho técnico
-								<i class="btn-inside-btn"></i>
+							desenho técnico
+							<i class="btn-inside-btn"></i>
 							</button>
-							<div class="content-tabela-mobile">
-								
-
+							<div class="content-tabela-mobile draw">
+								<img src="images/desenho-tecnico.jpg" alt="Desenho Técnico - Kraus Muller">
 							</div>
 						</div>
 					</aside>
@@ -401,7 +399,6 @@ A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo
 					<img src="images/logo/rohs-compliant_panel.png" alt="Rohs Compliant">
 					<img src="images/logo/CE.png" alt="Certification">
 				</div>
-
 			</div>
 			<div class="outer-slide hidden-md">
 				
@@ -411,9 +408,8 @@ A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo
 					<div class="slick-slide"> <img class="" src="images/logo/ipt.png" alt="Instituto de Pesquisas Tecnológicas"></div>
 					<div class="slick-slide"> <img class="" src="images/logo/rohs-compliant_panel.png" alt="Rohs Compliant"></div>
 					<div class="slick-slide"> <img class="" src="images/logo/CE.png" alt="Certification"></div>
-
 				</div>
-					<span class="f-white bolder "><i class="fa fa-angle-double-left"></i>Deslize para ver mais. <i class="fa fa-angle-double-right"></i></span>
+				<span class="f-white bolder "><i class="fa fa-angle-double-left"></i>Deslize para ver mais. <i class="fa fa-angle-double-right"></i></span>
 			</div>
 		</article>
 		<div class="container-form">
@@ -488,7 +484,6 @@ A Rosca Métrica é identificada com M maiúsculo e existem três tipos de passo
 	<?php include 'inc/footer.php'?>
 	<script src="js/lib/jquery/jquery.min.js"></script>
 	<script src="js/lib/slick/slick.min.js"></script>
-	<script src="js/lib/phone.js"></script>
 	<script src="js/app.js"></script>
 </body>
 </html>

@@ -615,6 +615,9 @@ main {
                                 height: 365px;
                                 width: 100%;
                             }
+                            &.draw{
+                                height: auto;
+                            }
                         }
                     }
                 }
