@@ -10,3 +10,12 @@
 
 4 - Go to your browser and put 'localhost/<your-directory>'.
 
+
+
+#Gource
+ - Gource is one software that helps me see what i'm doing inside my projects.
+
+I usually use these command: gource  --logo images/logo/logo-kraus-muller-sm.png --title "Landing Kraus Muller" --key  --user-image-dir images -a 1 -s .05 --path ./ --highlight-all-users 
+
+
+
