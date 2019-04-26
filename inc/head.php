@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="PT-BR">
 	<head>
 		<title>Produtos para Instalação Elétrica</title>
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, user-scalable=no">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="robots" content="index, follow" />
 		<meta name="language" content="PT-BR"/>
@@ -48,9 +47,11 @@
 		<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/fonts.css">
 		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/slick.css">
 		<link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/style.css">
-		<link rel="stylesheet" media="(max-width: 900px)" href="css/media.css">
+		<link rel="stylesheet" href="css/cta.css">
+		<link rel="stylesheet" href="css/media.css">
 		
 		
 

@@ -20,15 +20,13 @@ const gulp = require('gulp'),
 							.pipe(gulp.dest('css/lib/')),
 
 			fontawesome = gulp.src(['node_modules/font-awesome/fonts/**','node_modules/font-awesome/css/*.min.css'],{base:'node_modules/'})
-							.pipe(gulp.dest('fonts/')),
+							.pipe(gulp.dest('fonts/'));
 
-			jquery = gulp.src('node_modules/jquery/dist/jquery.min.js')
-						.pipe(gulp.dest('dist/js/lib/jquery'));
 
 
 		console.log('--------- Files have been copied !---------' + '\r\n');
 		done();
-		return merge(bootstrap,fontawesome,jquery);
+		return merge(bootstrap,fontawesome);
 
 	});
 

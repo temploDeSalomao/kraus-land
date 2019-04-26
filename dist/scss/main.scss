@@ -39,27 +39,50 @@ img {
 
 
 
+
+
+
+
 // Btn
+button{
+    cursor: pointer;
+}
+
+
+
+
 .btn-large {
     display: flex;
     justify-content: flex-end;
     align-items: center;
     align-content: center;
     width:26vw;
-    height: 55px;
+    height: 65px;
     padding-right: 25px;
     padding-top: 7px;
     background: #202121;
     border: 2px solid transparent;
     font-weight: 700;
     letter-spacing: 1px;
-    font-size: 21px;
-    font-weight: 500;
+    font-size: 28px;
+    font-weight: 600;
     transition: all .3s ease-in-out;
     border: 2px solid transparent;
     position: relative;
-    text-shadow: .1px .1px #fff;
     font-family:$hp; 
+    text-shadow:none;
+    &:before{
+        content:'\f178';
+        font-family: 'FontAwesome';
+        margin-right: 10px;
+        color: #000;
+        font-size:.9em;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        color: #000;
+
+    }
     i{
         margin-right: 10px;
     }
@@ -75,18 +98,7 @@ img {
         background-color: #202121;
     }
 
-    &:before{
-        content:'\f178';
-        font-family: 'FontAwesome';
-        margin-right: 10px;
-        color: #000;
-        font-size:.9em;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        color: #000;
-
-    }
+    
 }
 .btn-small{
     max-height: 50px;
@@ -98,12 +110,15 @@ img {
 
 // our last blog news
   .has-shade-title{
-        font-size: 50px;
+        font-size: 45px;
         height: 170px;
-        margin:90px 0 60px 0;
+        margin:90px 0 25px 0;
         position: relative;
+        z-index: 2;
+
+        font-weight: 300;
         &:after{
-            bottom: 20px;
+            bottom: 25px;
             content: "";
             display: block;
             height: 2px;
@@ -115,13 +130,14 @@ img {
         &:before{
             content: attr(data-content);
             position: absolute;
-            font-size: 200px;
+            font-size: 220px;
             -webkit-text-stroke: 2px #282828;
             color: transparent;
             font-family: Heading Pro Compressed;
             font-weight: 400;
-            z-index: -2;
-            left: -13%;
+            z-index: -1;
+            left: -24%;
+            letter-spacing: -3px;
         }
 }
 
@@ -129,14 +145,14 @@ img {
 .box-ticked{
     width: auto;
     height: auto;
-    padding-left: 48px;
+    padding-left: 35px;
     position: relative;
-    font-size: 17px;
+    font-size: 20px;
     &:after{
         content: "";
         width: 20px;
         position: absolute;
-        left: 1.2vw;
+        left: 3px;
         height: 20px;
         background: url('../dist/images/body/arrow_dots.png') no-repeat;
         background-size: contain;
@@ -162,7 +178,7 @@ img {
 }
 
 .f-gray {
-    color: #929496;
+    color: #59595b;
 }
 
 .f-black {
@@ -197,16 +213,24 @@ img {
     font-weight:600;
 }
 
+
+
+
+.no-transform{
+    text-transform: none;    
+}
+
 .main-title{
     font-size: 4.1vw;
     font-family:$hpc; 
 }
-.nain-subtitle{
-            font-size: 16.56px;
+.main-subtitle{
+            font-size: 24px;
             font-weight: 400;
-            line-height:22px;
+            line-height:28px;
             font-weight: 400;
             font-family:$hpc;
+            opacity: .9;
 
         }
 
@@ -259,7 +283,7 @@ img {
 }
 
 .row {
-    margin: 0;
+    margin: 0 auto;
     &.wrap {
         flex-flow: row wrap;
     }
@@ -302,6 +326,9 @@ flex-wrap: nowrap;
 }
 .no-padding {
     padding: 0;
+}
+.no-border{
+    border:0;
 }
 
 .pad-le_1{
