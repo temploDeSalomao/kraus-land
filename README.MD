@@ -1,6 +1,6 @@
-#Kraus-Muller &copy;
-###New landing page developed to Kraus Muller
-##RUN
+# Kraus-Muller &copy;
+### New landing page developed to Kraus Muller
+## RUN
 
 1 - Download these repository;
 
