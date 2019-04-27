@@ -60,7 +60,7 @@ $('.tab-aside').click(function(){
 	    y.addClass('active');
 })
 
-// Function to add class fixed when user scroll
+// Function to add class fixed when user scroll and increase padding top to prevent article jump
 	$(window).scroll(function(x){
 		x = $(window).scrollTop();
 		if(x>180){
