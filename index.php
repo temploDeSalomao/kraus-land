@@ -482,6 +482,7 @@
 		</div>
 	</main>
 	<?php include 'inc/footer.php'?>
+	<?php include 'inc/fast-actions.php'?>
 	<script src="js/lib/jquery/jquery.min.js"></script>
 	<script src="js/lib/slick/slick.min.js"></script>
 	<script src="js/app.js"></script>
