@@ -69,7 +69,7 @@ $('.tab-aside').click(function(){
 		}
 		else{
 			$('.header-home').removeClass('fixed');
-			$('html,body').css('padding-top','0x');
+			$('html,body').css('padding-top','0px');
 
 		}
 	});
