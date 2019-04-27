@@ -65,7 +65,7 @@ $('.tab-aside').click(function(){
 		x = $(window).scrollTop();
 		if(x>180){
 			$('.header-home').addClass('fixed');
-			$('html,body').css('padding-top','150px');
+			$('html,body').css('padding-top','120px');
 		}
 		else{
 			$('.header-home').removeClass('fixed');
