@@ -1,6 +1,5 @@
 $(window).ready(function(){
 
-
 //  Function used to change div content and div title - Linha Industrial_Prensa-cabos
 $('.tab-aside').click(function(){
 		var x,y,z;
@@ -66,9 +65,11 @@ $('.tab-aside').click(function(){
 		x = $(window).scrollTop();
 		if(x>180){
 			$('.header-home').addClass('fixed');
+			$('html,body').css('padding-top','160px');
 		}
 		else{
 			$('.header-home').removeClass('fixed');
+			$('html,body').css('padding-top','0px');
 
 		}
 	});
