@@ -109,7 +109,7 @@ $('.anchor').click(function(x){
 // string
 
 $('input[name="telefone"]').blur(function(x){
-	$(this).val='';
+	$(this).html='';
 	x=$(this).val().replace(/(\d{2})(\d{5})(\d{4})/,"$1-$2-$3");
 	
 })
