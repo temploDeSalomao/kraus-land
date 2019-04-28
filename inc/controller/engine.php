@@ -16,7 +16,7 @@ $GLOBALS['mensagem']=isset ($_POST['mensagem']) ? $_POST['mensagem']  : '';
 
 switch ($acao) {
 	case 'form':
-			$mensagem = "<span><b>Informações do contato</b><br> <i>Nome do produto</i>: ".$GLOBALS['produto']."&nbsp;&nbsp;&nbsp;<i>Modelo</i>: </span>";
+			$mensagem = "<span style='font-size: 12px;'><b>Informações do contato</b><br> <i>Nome do produto</i>: ".$GLOBALS['produto']."&nbsp;&nbsp;&nbsp;<i>Modelo</i>: </span>";
 			echo $mensagem; 
 		break;
 }
