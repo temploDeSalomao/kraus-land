@@ -15,6 +15,8 @@ $GLOBALS['quantidade']=isset ($_POST['quantidade']) ? $_POST['quantidade']  : ''
 $GLOBALS['mensagem']=isset ($_POST['mensagem']) ? $_POST['mensagem']  : '';
 
 
+echo($acao);
+
 
 
 switch ($acao) {
