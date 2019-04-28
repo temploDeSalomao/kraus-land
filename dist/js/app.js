@@ -110,8 +110,8 @@ $('.anchor').click(function(x){
 // validate form 
 
 $("input[type='submit']").click(function(x,y,z){
-
-	$('.first-row')
+	x=$('.first-row');
+	y=$('.second-row');
 })
 
 
