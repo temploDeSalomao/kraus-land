@@ -460,13 +460,13 @@
 							</label>
 							<label class="label-select">
 								<select name="quantidade">
-									<option value="teste" selected="true">Quantidade</option>
 									<option value="1">1</option>
 									<option value="2">2</option>
 									<option value="3">3</option>
 									<option value="4">4</option>
 									<option value="5">5</option>
 									<option value="+5">+5</option>
+									<option value="Quantidade" selected="true">Quantidade</option>
 								</select>
 							</label>
 						</div>
