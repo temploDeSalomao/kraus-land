@@ -30,6 +30,15 @@ $hpc: "Heading Pro Compressed";
 
 // Fast Actions
 
+.overlay{
+    background:rgba(0,0,0,.93);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
 .main-fast-actions{
     position: fixed;
     min-height:300px;
