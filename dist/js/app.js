@@ -1,8 +1,7 @@
 $(window).ready(function(){
 
 //  Function used to change div content and div title - Linha Industrial_Prensa-cabos
-$('.tab-aside').click(function(){
-		var x,y,z;
+$('.tab-aside').click(function(x,y,z){
 		// x = vairavel que busca o container geral
 		// y =  variavel que busca a div dos titulos para checagem de qual esta ativa
 		// z = Varibel que vusca dentro da iv dos conteudos qual esta ativa
@@ -33,8 +32,7 @@ $('.tab-aside').click(function(){
 
 
 	//  Function to change img - using on same section
-	$('.pic-item').click(function(){
-		var x,y;
+	$('.pic-item').click(function(x,y){
 		y = $(this).attr('src');
 
 
@@ -52,8 +50,7 @@ $('.tab-aside').click(function(){
 
 
 // Function to make effect about product - mobile only
-	$('.open-table').click(function(){
-		var x,y;
+	$('.open-table').click(function(x,y){
 		x = $(this).parent('.outer-content-tabela-mobile');
 		y = x.children('.content-tabela-mobile');
 		$('.content-tabela-mobile').removeClass('active');
@@ -109,6 +106,13 @@ $('.anchor').click(function(x){
 });
 
 
+
+// validate form 
+
+$("input[type='submit']").click(function(x,y,z){
+
+	$('.first-row')
+})
 
 
 $('.actions-close').click(function(){
