@@ -109,6 +109,12 @@ $('.anchor').click(function(x){
 });
 
 
+
+
+$('.fa-close').click(function(){
+	$(this).parent().css('trnaslateX','-200px');
+})
+
 // Load maps async
 
 	$('#first-map').attr('src','https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.5052593791643!2d-46.6623020845557!3d-23.550290384688456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5831ce745f75%3A0xa5c7d73d6946021e!2sR.+Goi%C3%A1s%2C+22+-+Higien%C3%B3polis%2C+S%C3%A3o+Paulo+-+SP%2C+01244-030!5e0!3m2!1spt-BR!2sbr!4v1556043721358!5m2!1spt-BR!2sbr');
