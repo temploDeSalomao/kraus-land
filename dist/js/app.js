@@ -105,34 +105,16 @@ $('.anchor').click(function(x){
 
 });
 
-
-
-
-// Function to lock BTN
-
-function lockBTN(){
-	$("input[type='submit']").attr("Disabled","true");
-	$("input[type='submit']").css({"cursor":"not-allowed","background":"#9f6916","border-color":"#9f6916"});
-	$(".container-submit").hover(function(){$(this).css("color","#000");$(this).children().css("color","#000")});
-}
-
-
-function unlockBTN(){
-	$("input[type='submit']").attr("Disabled","false");
-	$("input[type='submit']").css({"cursor":"pointer","background":"initial","border-color":"initial"});
-	$(".container-submit").hover(function(){$(this).css("color","initial");$(this).children().css("color","initial")});
-}
 // mask tel
 
 $('input[name="telefone"]').blur(function(x,y){
 	if($(this).val()>''){
-		y= new RegExp('^\\([0-9]{2}\\)((3[0-9]{7})|(9[0-9]{8}))$');
+		y= new RegExp('^\\([0-9]{2}\\)((3[0-9]{3}-[0-9]{4})|(9[0-9]{3}-[0-9]{5}))$');
 		y=y.test(x);
 		if(y){
 			x=$(this).val().replace(/(\d{2})(\d{5})(\d{4})/,"($1) $2.$3");
 			$(this).val('');
 			$(this).val(x);
-			unlockBTN();
 		}
 		else{
 			$(this).css("border-color","red");
