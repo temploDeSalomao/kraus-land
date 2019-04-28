@@ -91,14 +91,14 @@ $('.anchor').click(function(x){
 	switch(x){
 		case 'Orcamento':
 			$('html, body').animate({
-    			scrollTop: $(".container-form").offset().top  - 150
+    			scrollTop: $(".container-form").offset().top  - 50
 			}, 1000);
 			return false;
 		break;
 
 		case 'Prensa-Cabos':
 			$('html, body').animate({
-    			scrollTop: $(".container-industrial-line").offset().top - 50
+    			scrollTop: $(".container-industrial-line").offset().top - 150
 			}, 1000);
 			return false;
 		break;
