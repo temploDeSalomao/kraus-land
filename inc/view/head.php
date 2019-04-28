@@ -26,6 +26,9 @@
 		<meta name="geo.region" content="BR-SP" />
 		<meta name="geo.position" content="" />
 		<meta name="ICBM" content="" />
+		<meta name="msapplication-TileColor" content="#000">
+		<meta name="theme-color" content="#000000">
+		
 		
 		
 
@@ -34,9 +37,6 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
 		<link rel="manifest" href="images/favicon/site.webmanifest">
 		<link rel="mask-icon" href="images/favicon/safari-pinned-tab.svg" color="#000000">
-		<meta name="msapplication-TileColor" content="#000">
-		<meta name="theme-color" content="#000000">
-		
 		
 		<link rel="stylesheet" href="css/lib/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
