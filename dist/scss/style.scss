@@ -797,11 +797,17 @@ main {
                     align-self: center;
                 }
 
-                &:has(>input:active){
+               
+                &:hover{
+                    background:#000;
+                    color: $yellow;
+                    border-color: #000;
+                &:parent{
                     &:after{
                         color: $yellow;
-                    }
-                }
+                        transition: all .3s ease-in-out;
+                        
+                 
             }
             input[type="submit"] {
                 margin-left: auto;
@@ -813,17 +819,7 @@ main {
                 color: #000;
                 font-family: 'Heading Pro';
                 transition: all .3s ease-in-out;
-               
-                &:hover{
-                    background:#000;
-                    color: $yellow;
-                    border-color: #000;
-                &:parent{
-                    &:after{
-                        color: $yellow;
-                        transition: all .3s ease-in-out;
-                        
-                }
+               }
                 }
 
                     
