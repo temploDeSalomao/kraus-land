@@ -41,10 +41,11 @@
 		<link rel="stylesheet" href="css/lib/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/slick.css">
 		<link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/media.css">		
+		
+		<link rel="stylesheet" media="max-width(990px)" href="css/slick.css">
 <?php		
 if (fonts_are_cached) {
   echo'<link rel="stylesheet" href="css/fonts.css">';
