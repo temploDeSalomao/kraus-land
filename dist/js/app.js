@@ -112,7 +112,7 @@ $('.anchor').click(function(x){
 
 function lockBTN(){
 	$("input[type='submit']").attr("Disabled","true");
-	$("input[type='submit']").css("cursor","lock");
+	$("input[type='submit']").css({"cursor":"not-allowed","background":"#9f6916","border-color":"#9f6916"});
 }
 
 // mask tel
