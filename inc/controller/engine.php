@@ -16,7 +16,8 @@ $GLOBALS['mensagem']=isset ($_POST['mensagem']) ? $_POST['mensagem']  : '';
 
 switch ($acao) {
 	case 'form':
-			$mensagem = "Contato através do site. \r\n"; 
+			$mensagem = "Contato através do site. \r\n".$GLOBALS['nome'];
+			echo $mensagem; 
 		break;
 }
 
