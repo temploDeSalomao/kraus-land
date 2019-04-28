@@ -127,7 +127,7 @@ $("input[type='submit']").click(function(x,y,z){
 
 
 $('.actions-close').click(function(){
-	$(this).parent().css('transform','translateX(95px)')
+	$(this).parent().css({'transform':'translateX(95px)','transition':'all .4s'})
 })
 
 // Load maps async
