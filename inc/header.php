@@ -12,13 +12,13 @@
 				<img src="dist/images/logo/logo-kraus-muller.png" alt="">
 			</a>
 			<ul class="flex row nowrap center menu-dk">
-				<li class="uppercase flex al-center f-white_g opaque ligther compressed">
+				<li class="uppercase flex al-center f-white_g opaque ligther compressed anchor">
 					<a href="./">Home</a>
 				</li>
-				<li class="uppercase flex al-center f-white_g opaque ligther compressed" data-scroll="Prensa-Cabos">
+				<li class="uppercase flex al-center f-white_g opaque ligther compressed anchor" data-scroll="Prensa-Cabos">
 					<a href="#">Prensa-Cabos</a>
 				</li>
-				<li class="uppercase flex al-center f-white_g opaque ligther compressed" data-scroll="Orcamento">
+				<li class="uppercase flex al-center f-white_g opaque ligther compressed anchor" data-scroll="Orcamento">
 					<a href="#">Orçamento</a>
 				</li>
 			</ul>
