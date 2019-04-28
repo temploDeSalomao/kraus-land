@@ -859,6 +859,7 @@ main {
             .container-submit {
                 position: relative;
                     color: #030303;
+                    transition: all .3s;
 
                 &:after {
                     content: '\f178';
