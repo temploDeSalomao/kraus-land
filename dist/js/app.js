@@ -123,9 +123,6 @@ $("input[type='submit']").click(function(x,y,z){
 	x=$('.first-row');
 	y=$('.second-row');
 
-
-	console.log(x,y);
-	return false;
 })
 
 
