@@ -811,8 +811,12 @@ main {
                     background:#000;
                     color: $yellow;
                     border: $yellow;
+                    &:after{
+                        color: $yellow;
+                        transition: all .3s ease-in-out;
                         
                 }
+                    }
             }
         }
         .men-form {
