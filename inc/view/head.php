@@ -43,6 +43,7 @@
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/fast-actions.css">
 		
 		<link rel="stylesheet" media="screen and (min-width:500px)" href="css/media.css">		
 		<link rel="stylesheet" media="screen and (min-width:500px)" href="css/slick.css">
