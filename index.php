@@ -434,13 +434,13 @@
 						<div class="first-row flex space-between">
 								<input type="text" name="acao" value="form" hidden>
 							<label>
-								<input required type="text" name="nome" placeholder="Nome" oninvalid="this.setCustomValidity('Por favor, insira seu nome...')">
+								<input required type="text" name="nome" placeholder="Nome" oninvalid="this.setCustomValidity('Por favor, insira seu nome...')" oninput="setCustomValidity('')">
 							</label>
 							<label>
-								<input required type="text" name="telefone" placeholder="Telefone" maxlength="11" oninvalid="this.setCustomValidity('Por favor, insira um telefone válido...')" >
+								<input required type="text" name="telefone" placeholder="Telefone" maxlength="11" oninvalid="this.setCustomValidity('Por favor, insira um telefone válido...')" oninput="setCustomValidity('')" >
 							</label>
 							<label>
-								<input required type="email" name="email" placeholder="E-mail" oninvalid="this.setCustomValidity('Por favor, insira um e-mail válido...')">
+								<input required type="email" name="email" placeholder="E-mail" oninvalid="this.setCustomValidity('Por favor, insira um e-mail válido...')" oninput="setCustomValidity('')">
 							</label>
 						</div>
 						<div class="second-row flex space-between">
