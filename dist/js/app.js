@@ -126,7 +126,7 @@ function unlockBTN(){
 
 $('input[name="telefone"]').blur(function(x,y){
 	if($(this).val()>''){
-		y= new RegExp('^\\([0-9]{2}\\)((3[0-9]{3}-[0-9]{4})|(9[0-9]{3}-[0-9]{5}))$');
+		y= new RegExp('^\\([0-9]{2}\\)((3[0-9]{5}-[0-9]{4}))$');
 		y=y.test(x);
 		if(y){
 			x=$(this).val().replace(/(\d{2})(\d{5})(\d{4})/,"($1) $2.$3");
