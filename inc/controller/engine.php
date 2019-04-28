@@ -29,7 +29,7 @@ switch ($acao) {
 		$GLOBALS['mensagem'] = "Contato através do site. Mensagem do usuário:&nbsp;"$GLOBALS['nome'] .'\r\n'.  $GLOBALS['mensagem'];
 		break;
 	case 'form':
-		$GLOBALS['mensagem'] = "Contato através do site.\r\n Tipo De Produto:".$GLOBALS['produto']."&nbsp;&nbsp; Modelo:".$GLOBALS['modelo']."&nbsp;&nbsp; Quantidade:".$GLOBALS['modelo']."&nbsp;&nbsp;Mensagem:&nbsp;".$GLOBALS['nome'] .'\r\n'.  $GLOBALS['mensagem'];
+		$GLOBALS['mensagem'] = "Contato através do site. Tipo De Produto:".$GLOBALS['produto']."&nbsp;&nbsp; Modelo:".$GLOBALS['modelo']."&nbsp;&nbsp; Quantidade:".$GLOBALS['modelo']."&nbsp;&nbsp;Mensagem:&nbsp;".$GLOBALS['nome'] .'\r\n'.  $GLOBALS['mensagem'];
 		break;		
 }
 
