@@ -466,7 +466,7 @@
 									<option value="4">4</option>
 									<option value="5">5</option>
 									<option value="+5">+5</option>
-									<option value="Quantidade" selected="true">Quantidade</option>
+									<option value="Quantidade" selected>Quantidade</option>
 								</select>
 							</label>
 						</div>
