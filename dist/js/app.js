@@ -89,7 +89,7 @@ $('.anchor').click(function(x){
 	switch(x){
 		case 'Orcamento':
 			$('html, body').animate({
-    			scrollTop: $(".container-form").offset().top  - 50
+    			scrollTop: $(".container-form").offset().top 
 			}, 1000);
 			return false;
 		break;
@@ -110,7 +110,7 @@ $('.anchor').click(function(x){
 
 $('input[name="telefone"]').blur(function(x){
 	if($(this).val()>''){
-		
+
 
 	x=$(this).val().replace(/(\d{2})(\d{5})(\d{4})/,"($1) $2.$3");
 	$(this).val('');
