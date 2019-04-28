@@ -18,7 +18,7 @@ switch ($acao) {
 	case 'form':
 			$mensagem = "<b>Informações do contato:</b><span style='font-size: 12px;'><br> <i>Nome do produto</i>: ".$GLOBALS['produto'].";&nbsp;&nbsp;&nbsp;<i>Modelo</i>:". 
 			$GLOBALS['modelo'] ."&nbsp;&nbsp; Quantidade:".$GLOBALS['quantidade']."</span><br>
-			<b>Mensagem:</b><br><span style='font-size: 12px;'>" .$GLOBALS['mensagem'] ."</span>" ;
+			<b>Mensagem:</b><br><br><span style='font-size: 12px;'>" .$GLOBALS['mensagem'] ."</span>" ;
 		break;
 }
 
