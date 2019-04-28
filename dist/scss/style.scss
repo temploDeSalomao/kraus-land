@@ -796,21 +796,10 @@ main {
                     display: flex;
                     align-self: center;
                 }
-                 &:hover{
-                    background:#000;
-                    color: $yellow;
-                    border-color: #000;
-                &:parent{
-                    &:after{
-                        color: $yellow;
-                        transition: all .3s ease-in-out;
-                        
-                }
-                }
-
-                    
-                    }
-
+            & > input:hover{
+                background: #000;
+                
+            }
                 
             }
             input[type="submit"] {
@@ -824,7 +813,20 @@ main {
                 font-family: 'Heading Pro';
                 transition: all .3s ease-in-out;
                
-               
+                // &:hover{
+                //     background:#000;
+                //     color: $yellow;
+                //     border-color: #000;
+                // &:parent{
+                //     &:after{
+                //         color: $yellow;
+                //         transition: all .3s ease-in-out;
+                        
+                // }
+                // }
+
+                    
+                //     }
             }
         }
         .men-form {
