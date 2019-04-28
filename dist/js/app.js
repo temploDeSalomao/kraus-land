@@ -111,7 +111,7 @@ $('.anchor').click(function(x){
 
 
 
-$('.fa-close').click(function(){
+$('.actions-close').click(function(){
 	$(this).parent().css('trnaslateX','-200px');
 })
 
