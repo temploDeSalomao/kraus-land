@@ -796,6 +796,20 @@ main {
                     display: flex;
                     align-self: center;
                 }
+                 &:hover{
+                    background:#000;
+                    color: $yellow;
+                    border-color: #000;
+                &:parent{
+                    &:after{
+                        color: $yellow;
+                        transition: all .3s ease-in-out;
+                        
+                }
+                }
+
+                    
+                    }
 
                 
             }
