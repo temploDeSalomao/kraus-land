@@ -466,7 +466,7 @@
 									<option value="4">4</option>
 									<option value="5">5</option>
 									<option value="+5">+5</option>
-									<option disabled selected >Quantidade</option>
+									<option  disabled selected >Quantidade</option>
 								</select>
 							</label>
 						</div>
