@@ -125,6 +125,11 @@ $yellow: #fe9b01;
       text-align: center;
       transform: rotate(260deg);
       line-height: 25px;
+
+    &:before{
+      position: absolute;
+      background: red;
+    }
     }
     }
 }
