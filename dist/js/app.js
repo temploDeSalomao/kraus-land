@@ -100,6 +100,7 @@ $('.anchor').click(function(x){
 			}, 1000);
 		break;
 	}
+	return false;
 
 });
 
