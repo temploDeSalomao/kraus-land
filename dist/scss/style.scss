@@ -893,18 +893,16 @@ main {
                 font-family: 'Heading Pro';
                 transition: all .3s ease-in-out;
 
-                // &:hover{
-                //     background:#000;
+                 &:hover{
+                     background:#000;
 
-                // &:parent{
-                //     &:after{
-                //         color: $yellow;
-                //         transition: all .3s ease-in-out;
-
-                // }
-                // }
-
-                //     }
+                 &:parent{
+                     &:after{
+                         color: $yellow;
+                         transition: all .3s ease-in-out;
+                 }
+                 }
+                }
            
             }
         }
