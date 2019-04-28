@@ -1,4 +1,6 @@
 <?php 
+require_once 'inc/Controller/mailler/config.php';
+
 
 $nome =isset ($_POST['nome']) ? $_POST['nome']  : '';
 $email =isset ($_POST['email']) ? $_POST['email']  : '';
@@ -17,3 +19,6 @@ echo $produto;
 echo $modelo;
 echo $quantidade;
 echo $mensagem;
+
+
+
