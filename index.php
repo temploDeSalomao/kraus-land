@@ -1,6 +1,6 @@
 <?php include 'inc/view/head.php'?>
 <body>
-	<?php include 'inc/header.php'?>
+	<?php include 'inc/view/header.php'?>
 	<div class="first-bg"></div>
 	<main>
 		<section class="container-fluid container-md first-section flex row wrap ">
