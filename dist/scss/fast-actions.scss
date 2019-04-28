@@ -67,47 +67,51 @@ $yellow: #fe9b01;
         bottom: 10vh;
         width: 150px;
         height: 30vh;
+
         .content-open-modal {
-        border: 2px solid $yellow;
+            border: 2px solid $yellow;
             background: rgba(0, 0, 1, 0.93);
             padding: 15px 5px;
             font-size: 18px;
-            span{
-              text-align: center;
-              font-size: 16px;
-              b{
-                font-size: 22px;
-              }
+
+            span {
+                text-align: center;
+                font-size: 16px;
+
+                b {
+                    font-size: 22px;
+                }
             }
+
             button {
                 height: 30px;
                 width: 60px;
                 margin-top: 10px;
-                border-radius:5px;
-                font-size: 17px; 
+                border-radius: 5px;
+                font-size: 17px;
             }
-            &:before{
- 
-                  border: solid transparent;
-        border-top-color: transparent;
-        border-top-width: medium;
-        border-right-color: transparent;
-        border-right-width: medium;
-        border-bottom-color: transparent;
-        border-bottom-width: medium;
-        border-left-color: transparent;
-        border-left-width: medium;
-    content: "";
-    height: 0;
-    left: 50%;
-    pointer-events: none;
-    position: absolute;
-bottom: 35px;
-    width: 0;
-    border-color: #e89a27 transparent transparent;
-border-width: 13px;
-margin-left: -13px;
-}
+
+            &:before {
+                border: solid transparent;
+                border-top-color: transparent;
+                border-top-width: medium;
+                border-right-color: transparent;
+                border-right-width: medium;
+                border-bottom-color: transparent;
+                border-bottom-width: medium;
+                border-left-color: transparent;
+                border-left-width: medium;
+                content: "";
+                height: 0;
+                left: 50%;
+                pointer-events: none;
+                position: absolute;
+                bottom: 35px;
+                width: 0;
+                border-color: #e89a27 transparent transparent;
+                border-width: 13px;
+                margin-left: -13px;
             }
         }
     }
+}
