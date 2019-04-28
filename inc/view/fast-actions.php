@@ -10,7 +10,6 @@
 	<div class="open-modal flex column wrap center al-center">
 		<span class="flex column wrap center al-center f-white"><b>Olá! </b><br>Deixe o seu contato, retornaremos para você!</span>
 		<button class="open-modal bg-yellow">SIM</button>
-
 		<span class="cell-bottom bg-yellow"><i class="fa fa-phone f-white"></i></span>
 	</div>
 </div>
