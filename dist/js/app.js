@@ -85,6 +85,7 @@ $('.slide-certifications-mobile').slick({
 
 
 
+// amchor
 
 $('.anchor').click(function(x){
 	x = $(this).data('scroll');
