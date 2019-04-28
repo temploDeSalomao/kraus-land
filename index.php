@@ -436,7 +436,7 @@
 								<input type="text" name="nome" placeholder="Nome">
 							</label>
 							<label>
-								<input type="text" name="telefone" placeholder="Telefone" maxlength="9" >
+								<input type="text" name="telefone" placeholder="Telefone" maxlength="11" >
 							</label>
 							<label>
 								<input type="text" name="email" placeholder="E-mail">
