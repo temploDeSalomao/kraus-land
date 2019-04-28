@@ -433,37 +433,39 @@
 					<form class="hidden-sm"  action="#"> 
 						<div class="first-row flex space-between">
 							<label>
-								<input type="text" placeholder="Nome">
+								<input type="text" name="nome" placeholder="Nome">
 							</label>
 							<label>
-								<input type="text" placeholder="Telefone">
+								<input type="text" name="telefone" placeholder="Telefone">
 							</label>
 							<label>
-								<input type="text" placeholder="E-mail">
+								<input type="text" name="email" placeholder="E-mail">
 							</label>
 						</div>
 						<div class="second-row flex space-between">
 							<label class="label-select">
-								<select>
-									<option value="teste">Prensa Cabos</option>
-									<option value="teste" disabled selected>Tipo de Produto</option>
+								<select name="produtp">
+									<option value="Prensa-Cabos">Prensa Cabos</option>
+									<option disabled selected>Tipo de Produto</option>
 								</select>
 							</label>
 							<label class="label-select">
-								<select>
-									<option value="teste">Rosca PG</option>
-									<option value="teste">Rosca NPT</option>
-									<option value="teste">Rosca BSP</option>
-									<option value="teste">Rosca MÉTRICA</option>									
-									<option value="teste" disabled selected>Modelo</option>
+								<select name="modelo">
+									<option value="Rosca_PG">Rosca PG</option>
+									<option value="Rosca_NPT">Rosca NPT</option>
+									<option value="Rosca_BSP">Rosca BSP</option>
+									<option value="Rosca_Metrica">Rosca MÉTRICA</option>									
+									<option disabled selected>Modelo</option>
 								</select>
 							</label>
 							<label class="label-select">
-								<select>
-									<option value="teste">a</option>
-									<option value="teste">b</option>
-									<option value="teste">c</option>
-									<option value="teste" disabled selected >Quantidade</option>
+								<select name="quantidade">
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4</option>
+									<option value="+10">+10</option>
+									<option disabled selected >Quantidade</option>
 								</select>
 							</label>
 						</div>
