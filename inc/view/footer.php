@@ -35,7 +35,7 @@
 		<div class="container-md flex row nowrap space-between al-center copyright">
 			<p class="f-yellow bolder compressed">KRAUS + MULLER  - <span class="f-white">Todos os Direitos Reservados | ®Copyright 2018.  </span> </p>
 			
-			<span class="flex al-center f-white exceler"> Criação de sites: <img src="https://www.gabaritandoenem.com.br/wp-content/themes/gabaritando/assets/images/logo_3xceler_branco.png" alt=""></span>
+			<span class="flex al-center f-white exceler"> Criação de sites: <img src="images/logo/logo_3xceler_branco.png" alt=""></span>
 		</div>
 		
 	</div>
