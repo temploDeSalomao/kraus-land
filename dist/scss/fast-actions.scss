@@ -23,6 +23,17 @@ $yellow: #fe9b01;
     right: 0;
     bottom: 20vh;
     z-index: 12;
+        .actions-close {
+            position: absolute;
+            right: 2px;
+            top: 2px;
+            background: transparent;
+            border: transparent;
+            font-family: 'Heading Pro,sans-serif';
+            color: #fff;
+            font-size: 10px;
+            cursor: pointer;
+        }
 
     .open-wpp {
         width: 90px;
@@ -36,17 +47,6 @@ $yellow: #fe9b01;
         cursor: pointer;
         z-index: -1;
 
-        button {
-            position: absolute;
-            right: 2px;
-            top: 2px;
-            background: transparent;
-            border: transparent;
-            font-family: 'Heading Pro,sans-serif';
-            color: #fff;
-            font-size: 10px;
-            cursor: pointer;
-        }
 
         i {
             font-size: 80px;
