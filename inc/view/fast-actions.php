@@ -12,6 +12,6 @@
 			<span class="flex row wrap center al-center f-white lighter"><b>Olá! </b><br>Deixe o seu contato, retornaremos para você!</span>
 			<button class="open-modal bg-yellow">SIM</button>
 		</div>
-		<span class="cell-bottom bg-yellow"><i class="fa fa-phone f-white"></i></span>
+		<button  class="cell-bottom bg-yellow"><i class="fa fa-phone f-white"></i></button>
 	</div>
 </div>
