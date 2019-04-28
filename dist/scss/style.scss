@@ -161,10 +161,11 @@ body {
         &:after {
             content: '';
             height: 10px;
-            width: 100%;
+            width: 100vw;
             background: rgba(0, 0, 0, 0.3);
             position: absolute;
             bottom: -10px;
+            left: 0;
         }
 
         .logo-header-dk {
