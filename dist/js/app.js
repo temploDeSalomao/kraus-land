@@ -91,7 +91,7 @@ $('.anchor').click(function(x){
 	switch(x){
 		case 'Orcamento':
 			$('html, body').animate({
-    			scrollTop: $(".container-form").offset().top  - 50
+    			scrollTop: $(".container-form").offset().top  - 150
 			}, 1000);
 			return false;
 		break;
