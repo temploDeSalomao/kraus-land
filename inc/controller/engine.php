@@ -37,7 +37,6 @@ $email='<!doctype html> <meta charset="UTF-8">
 
 
 echo $email;
-echo "string";
 
 
 // $mail = new PHPMailer\PHPMailer\PHPMailer();
