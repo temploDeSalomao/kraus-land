@@ -117,7 +117,7 @@ $('input[name="telefone"]').blur(function(x,y){
 			$(this).val(x);
 		}
 		else{
-			$(this).html("<p> Verificar o numero de telefone</p>");
+			$(this).css("border-color","red");
 		}
 	}
 	
