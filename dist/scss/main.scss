@@ -110,7 +110,12 @@ button{
 .btn-small{
     max-height: 50px;
     width: 100%;
-
+ &:hover {
+        color: #202121;
+        background:    #76b01e;
+ 
+        transition: all .3s ease-in-out;
+    }
 
 }
 
