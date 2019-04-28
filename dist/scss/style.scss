@@ -799,7 +799,13 @@ main {
             & > input:hover{
                 background: #000;
                 color: $yellow;
-                    border-color: #000;
+                border-color: #000;
+
+                &:parent{
+                    &:after{
+                        color: $yellow;
+                    }
+                }
             }
                 
             }
