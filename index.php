@@ -444,7 +444,7 @@
 						</div>
 						<div class="second-row flex space-between">
 							<label class="label-select">
-								<select name="produtp">
+								<select name="produto">
 									<option value="Prensa-Cabos">Prensa Cabos</option>
 									<option disabled selected>Tipo de Produto</option>
 								</select>
