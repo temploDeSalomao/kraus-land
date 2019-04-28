@@ -858,11 +858,11 @@ main {
 
             .container-submit {
                 position: relative;
+                    color: #030303;
 
                 &:after {
                     content: '\f178';
                     font-family: 'FontAwesome';
-                    color: #030303;
                     position: absolute;
                     right: 90px;
                     top: 26px;
@@ -876,9 +876,6 @@ main {
                         background: #000;
                         color: $yellow;
                         border-color: #000;
-                    }
-
-                    &:after {
                         color: $yellow;
                         transition: all .3s;
                     }
