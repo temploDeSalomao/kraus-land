@@ -807,11 +807,13 @@ main {
                 color: #000;
                 font-family: 'Heading Pro';
                 transition: all .3s ease-in-out;
+               
                 &:hover{
                     background:#000;
                     color: $yellow;
                     border-color: #000;
-                    &:after{
+                    &:parent{
+                        &:after{
                         color: $yellow;
                         transition: all .3s ease-in-out;
                         
