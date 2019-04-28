@@ -6,7 +6,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="robots" content="index, follow" />
 		<meta name="language" content="PT-BR"/>
-		<meta name="author" content="Vitor Lima" />
+		<meta name="author" content="Kraus Muller" />
 		<meta name="contact" content="vitorblsantos@gmail.com" />
 		<meta name="publisher" content="" />
 		<meta name="copyright" content=""/>
