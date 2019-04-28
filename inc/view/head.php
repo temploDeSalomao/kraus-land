@@ -8,9 +8,9 @@
 		<meta name="language" content="PT-BR"/>
 		<meta name="author" content="Kraus Muller" />
 		<meta name="contact" content="vitorblsantos@gmail.com" />
-		<meta name="publisher" content="" />
-		<meta name="copyright" content=""/>
-		<meta name="revisit-after" content="" />
+		<meta name="publisher" content="3xceler" />
+		<meta name="copyright" content="kraus Muller Inc."/>
+		<meta name="revisit-after" content="5 days" />
 		<meta name="generator" content="Sublime Text 3.3" />
 		<meta name="description" content="">
 
