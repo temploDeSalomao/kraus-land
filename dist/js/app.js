@@ -98,7 +98,7 @@ $('.anchor').click(function(x){
 
 		case 'Prensa-Cabos':
 			$('html, body').animate({
-    			scrollTop: $(".container-industrial-line").offset().top - 150
+    			scrollTop: $(".container-industrial-line").offset().top - 100
 			}, 1000);
 			return false;
 		break;
