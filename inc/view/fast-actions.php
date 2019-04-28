@@ -1,4 +1,4 @@
-<div class="main-fast-actions">
+<div class="main-fast-actions hidden-sm">
 	<div class="overlay"></div>
 	<div class="open-wpp flex column wrap center al-center">
 			<button class="actions-close flex end al-end">X</button>
