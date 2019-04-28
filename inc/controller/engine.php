@@ -2,7 +2,6 @@
 error_reporting(E_ALL);
 ini_set('display_errors','On');
 require_once 'mailler/config.php'; 
-
 global $acao, $nome, $email, $telefone, $produto, $modelo, $quantidade, $mensagem;
 
 
