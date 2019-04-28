@@ -1,5 +1,5 @@
 <?php 
-require_once 'inc/Controller/mailler/config.php';
+require_once 'mailler/config.php';
 
 
 $nome =isset ($_POST['nome']) ? $_POST['nome']  : '';
