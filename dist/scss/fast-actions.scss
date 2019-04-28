@@ -93,6 +93,11 @@ $yellow: #fe9b01;
                 font-family: 'Heading Pro Compressed';
                 line-height: 20px;
                 text-align: center;
+                transition: all .4s ease-in-out;
+                &:hover{
+                    background:#bd842c;
+                    color: #000; 
+                }
             }
 
             &:before {
