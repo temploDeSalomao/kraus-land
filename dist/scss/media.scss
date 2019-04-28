@@ -14,6 +14,17 @@ $hpc: "Heading Pro Compressed";
         left: -20% !important;
     }
 }
+
+
+// fixed bar padding
+.header-home{
+    &.fixed{
+        padding:0 55px 0 95px;
+    }
+}
+
+
+
 main{
     .outer-container-products{
         .container-products{
