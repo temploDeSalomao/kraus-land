@@ -92,7 +92,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor " data-scroll="contato"> quero solicitar um orçamento</a>
+							<a href="#" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor " data-scroll="contato"> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
@@ -172,7 +172,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 col-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor" data-scroll="contato"> quero solicitar um orçamento</a>
+							<a href="#" class="btn-small al-center bg-green flex row wrap col-sm-12 col-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor" data-scroll="contato"> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
@@ -251,7 +251,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor" data-scroll="contato"> quero solicitar um orçamento</a>
+							<a href="#" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor" data-scroll="contato"> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
@@ -330,7 +330,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor" data-scroll="contato""> quero solicitar um orçamento</a>
+							<a href="#" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor" data-scroll="contato""> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
