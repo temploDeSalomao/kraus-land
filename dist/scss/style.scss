@@ -797,7 +797,7 @@ main {
                     align-self: center;
                 }
 
-                input:has(>input:active){
+                &:has(>input:active){
                     &:after{
                         color: $yellow;
                     }
