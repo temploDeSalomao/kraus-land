@@ -810,7 +810,7 @@ main {
                 &:hover{
                     background:#000;
                     color: $yellow;
-                    border: $yellow;
+                    border-color: $yellow;
                     &:after{
                         color: $yellow;
                         transition: all .3s ease-in-out;
