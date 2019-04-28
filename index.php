@@ -451,7 +451,7 @@
 								</select>
 							</label>
 							<label class="label-select">
-								<select name="modelo">
+								<select name="modelo" required>
 									<option value="Rosca_PG">Rosca PG</option>
 									<option value="Rosca_NPT">Rosca NPT</option>
 									<option value="Rosca_BSP">Rosca BSP</option>
@@ -460,7 +460,7 @@
 								</select>
 							</label>
 							<label class="label-select">
-								<select name="quantidade">
+								<select  name="quantidade" required>
 									<option value="1">1</option>
 									<option value="2">2</option>
 									<option value="3">3</option>
