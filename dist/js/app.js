@@ -105,6 +105,15 @@ $('.anchor').click(function(x){
 
 });
 
+
+
+
+// Function to lock BTN
+
+function lockBTN(){
+	$("input[type='submit']").attr("Disabled","true");
+}
+
 // mask tel
 
 $('input[name="telefone"]').blur(function(x,y){
