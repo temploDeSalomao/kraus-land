@@ -26,6 +26,54 @@ $hpc: "Heading Pro Compressed";
 
 
 
+
+
+// Fast Actions
+
+.main-fast-actions{
+    position: fixed;
+    min-height:300px;
+    min-width: 300px;
+    right: 0;
+    bottom: 20px;
+
+    .open-wpp{
+        width: 90px;
+        height: 130px;
+        border:2px solid $yellow;
+        border-right: 0;
+        border-top-left-radius: 40px;
+        position: absolute;
+        right: 0;
+        background: rgba(0, 0, 0, 0.7 );
+        cursor: pointer;
+        button{
+            position: absolute;
+            right: 2px;
+            top: 2px;
+            background: transparent;
+            border:transparent;
+            font-family:'Heading Pro,sans-serif';
+            color: #fff;
+            font-size: 10px;
+            cursor: pointer;
+
+        }
+
+        i{
+            font-size: 80px;
+        }
+
+        span{
+            font-size: 13px;
+            b{
+                font-size: 18px;
+            }
+        }
+    }
+}
+
+
 main{
     .outer-container-products{
         .container-products{
