@@ -106,10 +106,11 @@ $('.anchor').click(function(x){
 });
 
 // mask tel
-// string.replace(/(\d{2})(\d{3})(\d{2})/,"$1-$2-$3")
+// string
 
-$('input[name="telefone"]').blur(function(){
-	console.log($(this).val());
+$('input[name="telefone"]').blur(function(x){
+	x=$(this).val().replace(/(\d{2})(\d{5})(\d{4})/,"$1-$2-$3")
+	
 })
 
 // validate form 
