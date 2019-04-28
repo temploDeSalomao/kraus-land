@@ -118,6 +118,7 @@ $('input[name="telefone"]').blur(function(x,y){
 		}
 		else{
 			$(this).css("border-color","red");
+			lockBTN();
 		}
 	}
 	
