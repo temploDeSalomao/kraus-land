@@ -434,24 +434,24 @@
 						<div class="first-row flex space-between">
 								<input type="text" name="acao" value="form" hidden>
 							<label>
-								<input required type="text" name="nome" placeholder="Nome" oninvalid="this.setCustomValidity('Por favor, insira um endereço válido...')" oninput="setCustomValidity('')">
+								<input required type="text" name="nome" placeholder="Nome" oninvalid="this.setCustomValidity('Por favor, insira seu nome...')">
 							</label>
 							<label>
-								<input required type="text" name="telefone" placeholder="Telefone" maxlength="11" >
+								<input required type="text" name="telefone" placeholder="Telefone" maxlength="11" oninvalid="this.setCustomValidity('Por favor, insira um telefone válido...')" >
 							</label>
 							<label>
-								<input required type="email" name="email" placeholder="E-mail">
+								<input required type="email" name="email" placeholder="E-mail" oninvalid="this.setCustomValidity('Por favor, insira um e-mail válido...')">
 							</label>
 						</div>
 						<div class="second-row flex space-between">
 							<label class="label-select">
-								<select name="produto">
+								<select name="produto" oninvalid="this.setCustomValidity('Por favor, preencha este campo...')>
 									<option value="Prensa-Cabos">Prensa Cabos</option>
 									<option disabled selected>Tipo de Produto</option>
 								</select>
 							</label>
 							<label class="label-select">
-								<select name="modelo" required>
+								<select name="modelo" >
 									<option value="Rosca_PG">Rosca PG</option>
 									<option value="Rosca_NPT">Rosca NPT</option>
 									<option value="Rosca_BSP">Rosca BSP</option>
@@ -460,7 +460,7 @@
 								</select>
 							</label>
 							<label class="label-select">
-								<select  name="quantidade" required>
+								<select  name="quantidade">
 									<option value="1">1</option>
 									<option value="2">2</option>
 									<option value="3">3</option>
