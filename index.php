@@ -471,7 +471,7 @@
 								</select>
 							</label>
 						</div>
-						<textarea placeholder="Mensagem"></textarea>
+						<textarea name="mensagem" placeholder="Mensagem"></textarea>
 						<label class="container-submit">
 							<input type="submit" class="uppercase flex btn bg-yellow center al-center" value="Enviar">
 						</label>
