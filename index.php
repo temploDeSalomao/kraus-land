@@ -451,9 +451,10 @@
 							</label>
 							<label class="label-select">
 								<select>
-									<option value="teste">a</option>
-									<option value="teste">b</option>
-									<option value="teste">c</option>
+									<option value="teste">Rosca PG</option>
+									<option value="teste">Rosca NPT</option>
+									<option value="teste">Rosca BSP</option>
+									<option value="teste">Rosca MÉTRICA</option>									
 									<option value="teste" disabled selected>Modelo</option>
 								</select>
 							</label>
