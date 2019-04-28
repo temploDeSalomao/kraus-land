@@ -23,17 +23,18 @@ $yellow: #fe9b01;
     right: 0;
     bottom: 20vh;
     z-index: 12;
-        .actions-close {
-            position: absolute;
-            right: 5px;
-            top: 5px;
-            background: transparent;
-            border: transparent;
-            font-family: 'Heading Pro,sans-serif';
-            color: #fff;
-            font-size: 10px;
-            cursor: pointer;
-        }
+
+    .actions-close {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        background: transparent;
+        border: transparent;
+        font-family: 'Heading Pro,sans-serif';
+        color: #fff;
+        font-size: 10px;
+        cursor: pointer;
+    }
 
     .open-wpp {
         width: 90px;
@@ -46,7 +47,6 @@ $yellow: #fe9b01;
         background: rgba(0, 0, 0, 0.7);
         cursor: pointer;
         z-index: -1;
-
 
         i {
             font-size: 80px;
@@ -89,15 +89,16 @@ $yellow: #fe9b01;
                 margin-top: 10px;
                 border-radius: 5px;
                 font-size: 20px;
-                border:0;
+                border: 0;
                 font-family: 'Heading Pro Compressed';
                 line-height: 20px;
                 text-align: center;
                 transition: all .4s ease-in-out;
-                &:hover{
-                    background:#000;
+
+                &:hover {
+                    background: #000;
                     color: $yellow;
-                    border:1px solid $yellow; 
+                    border: 1px solid $yellow;
                 }
             }
 
@@ -123,33 +124,34 @@ $yellow: #fe9b01;
                 margin-left: -13px;
             }
         }
-    .cell-bottom{
-      width: 50px;
-      height: 50px;
-      border:0;
-      left: 33%;
-      bottom: -20px;
-      position: absolute;
-      border-radius:25px;
-      font-size: 25px;
-      text-align: center;
-      transform: rotate(260deg);
-      line-height: 25px;
-      -webkit-box-shadow: 0 0 15px 0 hsla(0,0%,100%,.3);
 
-    &:before{
-      position: absolute;
-      background: red;
-      content: '1';
-      font-size: 12px;
-      width: 20px;
-      height: 20px;
-      right: -5px;
-      top: -5px;
-      border-radius:100%;
-      text-align: center;
-      transform: rotate(100deg);
-    }
-    }
+        .cell-bottom {
+            width: 50px;
+            height: 50px;
+            border: 0;
+            left: 33%;
+            bottom: -20px;
+            position: absolute;
+            border-radius: 25px;
+            font-size: 25px;
+            text-align: center;
+            transform: rotate(260deg);
+            line-height: 25px;
+            -webkit-box-shadow: 0 0 15px 0 hsla(0, 0%, 100%, 0.3);
+
+            &:before {
+                position: absolute;
+                background: red;
+                content: '1';
+                font-size: 12px;
+                width: 20px;
+                height: 20px;
+                right: -5px;
+                top: -5px;
+                border-radius: 100%;
+                text-align: center;
+                transform: rotate(100deg);
+            }
+        }
     }
 }
