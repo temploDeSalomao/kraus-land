@@ -117,15 +117,7 @@ $('input[name="telefone"]').blur(function(x){
 	
 })
 
-// validate form 
-
-$("input[type='submit']").click(function(x,y,z){
-	x=$('.first-row');
-	y=$('.second-row');
-
-})
-
-
+//  animate cta wpp
 $('.actions-close').click(function(){
 	$(this).parent().css({'transform':'translateX(95px)','transition':'all .4s'})
 })
