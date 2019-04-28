@@ -45,7 +45,7 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/media.css">		
 		
-		<link rel="stylesheet" media="max-width(990px)" href="css/slick.css">
+		<link rel="stylesheet" media="screen and (min-width:500px)" href="css/slick.css">
 <?php		
 if (fonts_are_cached) {
   echo'<link rel="stylesheet" href="css/fonts.css">';
