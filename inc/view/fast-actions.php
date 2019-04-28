@@ -7,7 +7,7 @@
 			<span class="lighter f-white opaque">envie um <br> <b class="medium f-white">Whatsapp!</b></span>
 		</a>
 	</div>
-	<div class="open-modal">
+	<div class="open-modal flex column wrap cente al-center">
 		<span><b>Olá! </b><br>Deixe o seu contato, retornaremos para você!</span>
 		<button class="open-modal bg-yellow">SIM</button>
 
