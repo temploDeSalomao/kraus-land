@@ -50,4 +50,4 @@
 		if (fonts_are_cached) {
   		echo'<link rel="stylesheet" href="css/fonts.css">';
 		}?>	
-</head>
+	</head>
