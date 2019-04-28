@@ -1,4 +1,4 @@
 <?php
 
-require_once('inc/controller/mailler.php');
+require_once('controller/mailler.php');
 
