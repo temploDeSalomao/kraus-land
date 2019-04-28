@@ -86,7 +86,7 @@ $('.slide-certifications-mobile').slick({
 
 
 
-$('.main-nav ul li').click(function(x){
+$('.anchor').click(function(x){
 	x = $(this).data('scroll');
 	switch(x){
 		case 'Orcamento':
