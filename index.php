@@ -471,7 +471,7 @@
 						<textarea placeholder="Mensagem"></textarea>
 						<label class="container-submit">
 							
-							<input type="submit" class="uppercase flex btn bg-yellow center al-end" value="Enviar">
+							<input type="submit" class="uppercase flex btn bg-yellow center al-center" value="Enviar">
 						</label>
 					</form>
 				</div>
