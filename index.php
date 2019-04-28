@@ -92,7 +92,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed anchor " data-scroll="contato"> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
@@ -330,7 +330,7 @@
 									<img class="pic-item" src="images/products/rosca-pg.jpg" alt="">
 								</li>
 							</ul>
-							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed"> quero solicitar um orçamento</a>
+							<a href="" class="btn-small al-center bg-green flex row wrap col-sm-12 ccol-md-12 no-grow full-basis no-margin no-padding uppercase compressed data-scroll="contato""> quero solicitar um orçamento</a>
 							</figcaption>
 						</figure>
 					</section>
@@ -429,8 +429,8 @@
 							<a href="mailto:vendas@krausmuller.com.br" class="contact-email al-start start  uppercase flex row nowrap"><b class="f-yellow medium">vendas: </b>vendas@krausmuller.com.br</a>
 						</li>
 					</ul>
-					<a href="#" class="btn-large bg-yellow f-black hidden-md">SOLICITAR ORÇAMENTO</a>
-					<form class="hidden-sm"  action="#">
+					<a href="#" class="btn-large bg-yellow f-black hidden-md anchor" data-scroll="contato">SOLICITAR ORÇAMENTO</a>
+					<form class="hidden-sm"  action="#"> 
 						<div class="first-row flex space-between">
 							<label>
 								<input type="text" placeholder="Nome">
