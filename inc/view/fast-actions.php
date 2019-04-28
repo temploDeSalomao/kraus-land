@@ -8,6 +8,7 @@
 		</a>
 	</div>
 	<div class="outer-open-modal">
+			<button class="actions-close flex end al-end">X</button>
 		<div class="content-open-modal flex column wrap center al-center">
 			<span class="flex row wrap center al-center f-white lighter"><b>Olá! </b><br>Deixe o seu contato, retornaremos para você!</span>
 			<button class="open-modal bg-yellow">SIM</button>
