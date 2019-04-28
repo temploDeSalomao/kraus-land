@@ -879,6 +879,7 @@ main {
 
                     &:after {
                         color: $yellow;
+                        transition: all .3s;
                     }
                 }
             }
