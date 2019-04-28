@@ -432,9 +432,9 @@
 					<a href="#" class="btn-large bg-yellow f-black hidden-md anchor" data-scroll="Orcamento">SOLICITAR ORÇAMENTO</a>
 					<form class="hidden-sm"  action="inc/controller/engine.php" method="POST"> 
 						<div class="first-row flex space-between">
-								<input required type="text" name="acao" value="form" hidden>
+								<input type="text" name="acao" value="form" hidden>
 							<label>
-								<input required type="text" name="nome" placeholder="Nome">
+								<input required type="text" name="nome" placeholder="Nome" oninvalid="this.setCustomValidity('Por favor, insira um endereço válido...')" oninput="setCustomValidity('')">
 							</label>
 							<label>
 								<input required type="text" name="telefone" placeholder="Telefone" maxlength="11" >
