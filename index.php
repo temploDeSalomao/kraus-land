@@ -439,7 +439,7 @@
 								<input type="text" name="telefone" placeholder="Telefone" maxlength="11" >
 							</label>
 							<label>
-								<input type="text" name="email" placeholder="E-mail">
+								<input type="email" name="email" placeholder="E-mail">
 							</label>
 						</div>
 						<div class="second-row flex space-between">
