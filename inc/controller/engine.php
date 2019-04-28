@@ -9,3 +9,11 @@ $quantidade =isset ($_POST['quantidade']) ? $_POST['quantidade']  : '';
 $mensagem =isset ($_POST['mensagem']) ? $_POST['mensagem']  : '';
 
 
+
+echo $nome;
+echo $email;
+echo $telefone;
+echo $produto;
+echo $modelo;
+echo $quantidade;
+echo $mensagem;
