@@ -1,4 +1,4 @@
-<div class="container-fast-actions">
+<div class="main-fast-actions">
 	<div class="overlay"></div>
 	<div class="open-wpp">
 		<button class="close-modal flex end al-end">X</button>
