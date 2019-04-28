@@ -112,7 +112,7 @@ $('.anchor').click(function(x){
 
 
 $('.actions-close').click(function(){
-	$(this).parent().css('transform','translateX(200px)');
+	$(this).parent().css('transform','translateX(95px)');
 })
 
 // Load maps async
