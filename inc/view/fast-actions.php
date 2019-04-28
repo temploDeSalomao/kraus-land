@@ -8,6 +8,7 @@
 		</a>
 	</div>
 	<div class="open-modal">
-		
+		<span><b>Olá! </b><br>Deixe o seu contato, retornaremos para você!</span>
+		<button class="open-modal bg-yellow">SIM</button>
 	</div>
 </div>
