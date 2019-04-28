@@ -112,7 +112,7 @@ $('.anchor').click(function(x){
 
 
 $('.actions-close').click(function(){
-	$(this).parent().animation(400,function(){
+	$(this).parent().fadeOut(200,function(){
 		$(this).css('transform','translateX(95px)')
 	});
 })
