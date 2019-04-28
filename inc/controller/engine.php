@@ -15,12 +15,8 @@ $GLOBALS['quantidade']=isset ($_POST['quantidade']) ? $_POST['quantidade']  : ''
 $GLOBALS['mensagem']=isset ($_POST['mensagem']) ? $_POST['mensagem']  : '';
 
 switch ($acao) {
-	case 'value':
-		# code...
-		break;
-	
-	default:
-		# code...
+	case 'form':
+			echo "string";
 		break;
 }
 
