@@ -1,4 +1,4 @@
-<?php include 'inc/head.php'?>
+<?php include 'inc/view/head.php'?>
 <body>
 	<?php include 'inc/header.php'?>
 	<div class="first-bg"></div>
