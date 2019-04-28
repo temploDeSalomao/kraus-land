@@ -89,7 +89,7 @@ $('.slide-certifications-mobile').slick({
 $('.anchor').click(function(x){
 	x = $(this).data('scroll');
 	switch(x){
-		case 'Orcamento' || 'contato':
+		case 'Orcamento':
 			$('html, body').animate({
     			scrollTop: $(".container-form").offset().top
 			}, 1000);
