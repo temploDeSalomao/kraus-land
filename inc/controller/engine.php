@@ -1,5 +1,8 @@
 <?php 
-require_once 'mailler/config.php';
+require_once 'mailler/config.php'; 
+
+
+global $nome, $email, $telefone, $produto, $modelo, $quantidade, $mensagem;
 
 
 $GLOBALS['nome']= isset ($_POST['nome']) ? $_POST['nome']  : '';
@@ -12,13 +15,6 @@ $GLOBALS['mensagem']=isset ($_POST['mensagem']) ? $_POST['mensagem']  : '';
 
 
 
-echo $nome;
-echo $email;
-echo $telefone;
-echo $produto;
-echo $modelo;
-echo $quantidade;
-echo $mensagem;
 
 
 
