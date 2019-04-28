@@ -117,7 +117,7 @@ function lockBTN(){
 }
 
 
-function lockBTN(){
+function unlockBTN(){
 	$("input[type='submit']").attr("Disabled","false");
 	$("input[type='submit']").css({"cursor":"pointer","background":"initial","border-color":"initial"});
 	$(".container-submit").hover(function(){$(this).css("color","initial");$(this).children().css("color","initial")});
