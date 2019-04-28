@@ -86,7 +86,7 @@ $yellow: #fe9b01;
                 border-radius:5px;
                 font-size: 17px; 
             }
-            &:after{
+            &:before{
  
                   border: solid transparent;
         border-top-color: transparent;
@@ -104,6 +104,9 @@ $yellow: #fe9b01;
     position: absolute;
     top: 100%;
     width: 0;
+    border-color: #e89a27 transparent transparent;
+border-width: 13px;
+margin-left: -13px;
 }
             }
         }
