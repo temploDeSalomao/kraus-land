@@ -116,6 +116,12 @@ function lockBTN(){
 	$(".container-submit").hover(function(){$(this).css("color","#000");$(this).children().css("color","#000")});
 }
 
+
+function lockBTN(){
+	$("input[type='submit']").attr("Disabled","false");
+	$("input[type='submit']").css({"cursor":"pointer","background":"initial","border-color":"initial"});
+	$(".container-submit").hover(function(){$(this).css("color","initial");$(this).children().css("color","initial")});
+}
 // mask tel
 
 $('input[name="telefone"]').blur(function(x,y){
