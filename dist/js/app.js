@@ -106,6 +106,7 @@ $('.anchor').click(function(x){
 });
 
 // mask tel
+// string
 
 $('input[name="telefone"]').blur(function(x,y){
 	if($(this).val()>''){
@@ -115,10 +116,6 @@ $('input[name="telefone"]').blur(function(x,y){
 			x=$(this).val().replace(/(\d{2})(\d{5})(\d{4})/,"($1) $2.$3");
 			$(this).val('');
 			$(this).val(x);
-		}
-		else{
-			$(this).css("border-color","red");
-			lockBTN();
 		}
 	}
 	
