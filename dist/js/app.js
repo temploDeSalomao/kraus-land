@@ -100,6 +100,7 @@ $('.anchor').click(function(x){
 			$('html, body').animate({
     			scrollTop: $(".container-industrial-line").offset().top-300
 			}, 1000);
+			return false;
 		break;
 	}
 
