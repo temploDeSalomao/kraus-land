@@ -796,6 +796,12 @@ main {
                     display: flex;
                     align-self: center;
                 }
+
+                input:has(>input:active){
+                    &:after{
+                        color: $yellow;
+                    }
+                }
             }
             input[type="submit"] {
                 margin-left: auto;
