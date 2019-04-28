@@ -1082,4 +1082,9 @@ footer {
     min-width: 300px;
     right: 0;
     bottom: 20px;
+
+    .open-wpp{
+        width: 50px;
+        border:1px solid $yellow;
+    }
 }
