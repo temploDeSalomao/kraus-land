@@ -119,7 +119,7 @@ $('input[name="telefone"]').blur(function(x){
 
 //  animate cta wpp
 $('.actions-close').click(function(){
-	$(this).parent().css({'transform':'translateX(95px)','transition':'all .4s'});
+	$(this).parent().css({'transform':'translateX(100%)','transition':'all .4s'});
 })
 
 // Load maps async
